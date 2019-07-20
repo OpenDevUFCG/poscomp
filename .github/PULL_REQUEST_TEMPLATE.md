@@ -1,5 +1,5 @@
 Fixes #ISSUE_NUMBER
-<!-- Informe o numero da issue a que esse PR se refere -->
+<!-- Informe o número da issue a que esse PR se refere -->
 
 **Descrição do bug/feature:**
 <!-- Descreva o bug ou a feature do PR -->

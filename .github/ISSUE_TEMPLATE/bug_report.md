@@ -18,7 +18,7 @@ Passos para reproduzir o comportamento indesejado:
 Uma descrição clara sobre o comportamento esperado.
 
 **Capturas de tela**
-Se aplicavel, adicione capturas de tela para ajudar na descrição do problema
+Se aplicável, adicione capturas de tela para ajudar na descrição do problema
 
 **Desktop:**
  - SO: [e.g. iOS]
