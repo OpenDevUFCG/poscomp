@@ -1,66 +1,81 @@
 # Contributing
 
-Contribuições sempre serão bem vindas, sejam pequenas ou grandes. Veja abaixo as várias formas de contribuir conosco.
+Contribuições sempre serão bem-vindas, sejam pequenas ou grandes. Abaixo, conheça as várias formas de contribuir conosco.
 
 ## Issues
 
-As issues são um espaço aberto para requisitar criação, mudança ou conserto. É importante ter em mente que o tema da issue e das discussões sempre deve estar relacionado ao projeto.
+As *issues* são um espaço aberto para requisitar criação, mudança ou conserto de material. Também podem ser usadas como um espaço de discussão, mas tenha em mente que o tema sempre deve estar relacionado ao projeto.
 
-## Como Contribuir
+## Como Contribuir?
 
-Se você escolheu uma issue para contribuir, não esqueça de avisar lá que você está trabalhando naquilo. Se é algo que ainda não exista uma issue, crie! É importante notificar o que você está fazendo.
+### 1. Git e GitHub
 
-### Clonar o repositório
+O Git e o GitHub são poderosas ferramentas de versionamento de código que utilizamos para hospedagem e manutenção do Poscomp. Caso você não tenha experiência com essas tecnologias ou tenha dúvidas sobre as seções a seguir, esse [guia](https://tableless.com.br/tudo-que-voce-queria-saber-sobre-git-e-github-mas-tinha-vergonha-de-perguntar/) pode ser de grande auxílio em sua jornada.
 
-Após isso, você deve dar um fork do projeto. Existe um botão na página do github para isso. Quando ele terminar de realizar o fork, você deve copiar a url do repositório do fork e clonar na sua máquina. 
+**Ainda restam dúvidas?** Contate um dos membros de nossa equipe! Estaremos sempre dispostos a ajudar!
 
-Feito no terminal, será algo assim:
+### 2. Escolha uma *Issue*
+
+O primeiro passo é escolher uma *issue* em que você deseja contribuir. Lembre-se de avisar nessa *issue* que você estará trabalhando nela, é muito importante manter todos notificados sobre o que já está sendo feito. Quer contribuir com algo que ainda não é uma *issue*? Não tem problema! Todos podem criar *issues* que achem pertinentes ao repositório.
+
+### 3. Crie o seu *Fork*
+
+Com a issue escolhida ou criada, é hora de *forkar* o Poscomp. Vá até a página inicial do [repositório](https://github.com/OpenDevUFCG/poscomp) e clique no botão **Fork** que se encontra no topo da página à direita. Ao fim do processo, copie a URL do repositório criado (o "seu" Poscomp).
+
+**P.S.:** Essa URL seguirá o formato `https://github.com/<seu_usuario>/poscomp`, em que `<seu_usuario>` é o seu usuário do GitHub. Por fins didáticos, iremos chamá-la apenas de `<url_do_fork>` a partir daqui.
+
+### 4. Clone o repositório
+
+Com o *fork* criado, é hora de ter nosso repositório em sua máquina através da clonagem de repositório. Essa operação pode ser feita através do terminal com o comando `git clone` e a URL do seu fork. Dito isso, vá até seu terminal e use o seguinte comando:
+
 ```sh
-git clone https://github.com/<seu_usuario>/poscomp.git
+git clone <url_do_fork>
 ```
+Ao término da execução do comando, terá sido criado um repositório *Poscomp* no seu computador.
 
-Onde seu usuário ficará no campo **<seu_usuario>**.
+### 5. Produza conteúdo
 
-Ao terminar de clonar, será criado um repositório *poscomp* no seu computador. Agora você tem a liberdade de com seu editor favorito fazer as edições que você achar necessário, ao terminar, você deve commitar suas alterações no seu repositório remoto.
+Esse momento é todo seu! Com seu repositório local, você tem a liberdade de fazer as alterações que julgar necessárias. Produza ou adicione todo o conteúdo que ache útil para a *issue* que você escolheu, ele será muito bem-vindo! 
 
-Entre no repositório do *poscomp*
+### 6. Commite as modificações
+
+Ao terminar de adicionar o conteúdo que desejava, chegou a hora de *commitar* suas alterações para o repositório remoto. Em outras palavras, iremos levar essas modificações para o repositório que todos podem visualizar *online*.
+
+Inicialmente, utilizando o comando `cd` no terminal, navegue até o seu repositório local do *Poscomp*:
 
 ```sh
 cd poscomp/
 ```
-
-Esse primeiro comando irá adicionar todos seus arquivos do diretório atual para serem commitados.
+A seguir, adicione os novos arquivos com o comando `git add`. Com o comando abaixo, todos os arquivos modificados (ou criados) serão adicionados de uma só vez.
 
 ```sh
 git add . 
 ```
 
-Commita seus arquivos, junto com sua mensagem do commit, é muito importante que você descreva de maneira simples e clara o que você fez. Nada muito longo, seja objetivo.
+Após adicioná-los, chegou a hora de commitar esses arquivos usando o comando `git commit`. Escolha uma mensagem que descreva bem as modificações que você fez e utilize o comando abaixo para realizar o commit:
 
 ```sh
 git commit -m "<sua_mensagem_de_commit>"
 ```
 
-Finalmente, você enviará para seu repositório remoto todas as alterações feitas.
+Por fim, envie todos os *commits* para o seu repositório remoto através do `git push`. Utilize o seguinte comando:
 
 ```sh
 git push origin master
 ```
+Pronto! Agora todas as modificações que você fez localmente estão também disponíveis no seu repositório remoto (*fork*)!
 
-### Fazendo uma Pull Request
+### 7. Crie uma PR
 
-Indo para página do seu fork, você irá visualizar um aviso solicitando que em amarelo você faça uma Pull Request para o repositório original. Ao clicar apareçerá uma página onde você deve preencher informações sobre sua pull request
+Agora que as modificações estão no repositório remoto do seu *fork*, você pode sugerir a adição delas no repositório do Poscomp através de uma *Pull Request*. 
 
-- Referencie a issue que você está trabalhando usando #<numero_da_issue>
+Para isto, vá até a página do seu fork e clique no botão **New Pull Request**. Seu navegador será direcionado a uma página que lista todos os commits do seu *fork* que não estão presentes no Poscomp original. Nela, clique no botão **Create Pull Request** e preencha os campos textuais seguindo as instruções ali presentes. Por fim, confirme a criação da PR e aguarde a avaliação de um dos membros de nossa equipe. 
 
-- Descreva o que você fez
-
-- Esteja aberto a críticas construtivas e elogios :)
-
-[Tutorial mais detalhado](https://blog.da2k.com.br/2015/02/04/git-e-github-do-clone-ao-pull-request/).
+**Assim que possível alguém irá aprovar sua PR ou requisitar as mudanças necessárias!**
 
 ## Indicações
-- Seja claro nos seus commits.
-- Sempre que for mudar algo, verifica se é necessário mudar alguma documentação. É importante que tudo esteja atualizado.
-- Caso esteja tendo dificuldades de trabalhar com o git, contate alguém da equipe (nas issues ou no gitter) e peça ajuda.
+
+- Seja claro em seus commits.
+- Caso esteja tendo dificuldades de trabalhar com o Git, contate alguém da equipe e peça ajuda.
+- Sempre que for mudar algo, verifique se é necessário alterar algo também na documentação. É importante que tudo esteja atualizado!
 
