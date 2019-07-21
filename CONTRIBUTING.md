@@ -2,9 +2,17 @@
 
 Contribuições sempre serão bem-vindas, sejam pequenas ou grandes. Abaixo, conheça as várias formas de contribuir conosco.
 
-## Issues
+## Tipos de Contribuição
+
+### Resolvendo Issues
 
 As *issues* são um espaço aberto para requisitar criação, mudança ou conserto de material. Também podem ser usadas como um espaço de discussão, mas tenha em mente que o tema sempre deve estar relacionado ao projeto.
+
+### Resolução de Questões
+
+Além de contribuições no desenvolvimento, também é muito importante para o crescimento do projeto que recebamos cada vez mais soluções de questões das provas da POSCOMP. Esse tipo de contribuição é particularmente importante, pois torna o impacto do projeto cada vez mais profundo. 
+
+Se você tem esse tipo de material e quer compartilhar, leia [esse](./docs/QUESTAO.md) e [esse](./docs/AUTOR.md) documentos antes de seguir para a próxima seção.
 
 ## Como Contribuir?
 
