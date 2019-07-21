@@ -12,7 +12,7 @@ Para executar localmente, é necessário ter o **NodeJS** e **Yarn** instalados.
 yarn install
 yarn start
 ```
-Assim, o Poscomp estará disponível em http://localhost:8000/.
+Assim, o Poscomp estará disponível em http://localhost:3000/.
 
 ## Como Contribuir?
 
