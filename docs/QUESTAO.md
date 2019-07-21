@@ -23,9 +23,11 @@ Para armazenar os dados das questões da POSCOMP neste repositório são utiliza
 }
 ```
 
-Esse arquivo deve ser nomeado com o número da questão e estar em um diretório nomeado com o ano de realização da prova em que a questão esteve presente. Por sua vez, esse diretório deve estar inserido em ***poscomp/src/lib/***.
+Esse arquivo deve ser nomeado com o número da questão e estar em um diretório nomeado com o ano de realização da prova em que a questão esteve presente. Por sua vez, esse diretório deve estar inserido em ***poscomp/src/lib/provas/***.
 
-Portanto, para a décima questão da prova do POSCOMP de 2016, teríamos `poscomp/src/lib/2016/10.json`. 
+Portanto, para a décima questão da prova da POSCOMP de 2016, teríamos `poscomp/src/lib/provas/2016/10.json`. 
+
+> **Lembrete:** Ao contribuir com uma solução justificada, as informações do autor da justificativa devem estar presentes no JSON de autores. Se não estão, adicione-as!
 
 ## Estrutura do JSON
 
@@ -37,30 +39,32 @@ Para garantir que você preencha corretamente os JSONs, vamos nos aprofundar um 
 | :--: | :--: | :--: |
 | `ano` | O ano de realização da prova em que a questão esteve presente. | String |
 | `questao` | O número da questão (igual ao nome do arquivo `.json`). | String |
-| `area` | A área de conhecimento em que o POSCOMP classificou a questão. | String |
+| `area` | A área de conhecimento em que a POSCOMP classificou a questão. | String |
 | `enunciado` | O enunciado completo da questão. | String |
 | `img_url` | Uma lista de URLs das imagens utilizadas no enunciado da questão (se existirem). | Array |
 | `alternativas` | Um objeto que armazena as 5 alternativas de resposta da questão. | Object |
 | `resposta` | O caractere que indica a alternativa correta da questão. | String |
-| `autor` | O nome completo do autor que produziu a justificativa para a resposta. | String |
+| `autor` | Uma lista com IDs dos autores que produziram a justificativa para a resposta. | Array |
 | `temas` | Uma lista dos temas que são contemplados pelo conteúdo da questão. | Array |
 | `justificativa` | A justificativa para a escolha da alternativa do gabarito. | String |
 
 ### Observações
 
-- Se a questão não utiliza imagens, mantenha o valor de `img_url` como um *array* vazio.
-
-- A `resposta` deve sempre ser uma *string* com um único caractere, preferencialmente em caixa alta.
-
-- Os valores de `img_url` e de `temas` são *arrays* que, quando não-vazios, devem conter exclusivamente *strings*. 
+- A POSCOMP classifica suas questões entre três áreas: **Matemática**, **Fundamentos da Computação** e **Tecnologia da Computação**. Nenhuma outra área informada será válida.
 
 - Todos os textos referentes ao conteúdo das provas (como o `enunciado` e as `alternativas`) devem ser replicados com exatidão.
 
+- Se a questão não utiliza imagens, mantenha o valor de `img_url` como um *array* vazio.
+
+- Os valores de `img_url`, de `autor` e de `temas` são *arrays* que, quando não-vazios, devem conter exclusivamente *strings*.
+
 - O objeto `alternativas` possui 5 propriedades: **A**, **B**, **C**, **D** e **E**. Cada uma delas terá, como valor, a *string* contendo o texto da respectiva alternativa da questão.
 
-- O POSCOMP classifica suas questões entre três áreas: **Matemática**, **Fundamentos da Computação** e **Tecnologia da Computação**. Nenhuma outra área informada será válida.
+- A `resposta` deve sempre ser uma *string* com um único caractere, preferencialmente em caixa alta.
 
-- Se essa será sua primeira contribuição, leia também o [AUTOR.md](./AUTOR.md).
+- Se a questão ainda não possui justificativa, mantenha os valores de `autor` e `temas` como *arrays* vazios.
+
+- Se essa será sua primeira contribuição, leia também esse [documento](./AUTOR.md).
 
 ## Exemplos
 
@@ -82,9 +86,9 @@ Agora você já está pronto para começar a contribuir conosco! Mas antes, que 
         "E": "é adequada ao emprego de etiquetas e palavras-chave."
     },
     "resposta": "C",
-    "autor": "Matheus Alves dos Santos",
+    "autor": ["1", "2"],
     "temas": ["Sistemas Operacionais"],
-    "justificativa": "Metadados são um tipo de documentação que descreve os dados em questão [...]."
+    "justificativa": "Metadados atuam como uma documentação que descreve os dados em questão [...]."
 }
 ```
 
@@ -104,7 +108,7 @@ Agora você já está pronto para começar a contribuir conosco! Mas antes, que 
         "E": "Todo problema que está na classe P também está na classe NP."
     },
     "resposta": "D",
-    "autor": "",
+    "autor": [],
     "temas": [],
     "justificativa": ""
 }
