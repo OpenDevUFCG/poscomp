@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "katex": "^0.10.2",
     "path": "^0.12.7",
     "prop-types": "^15.7.2",
     "react": "^16.8.6",
