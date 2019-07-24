@@ -2,16 +2,15 @@ import React from 'react';
 import './App.css';
 
 import PageSideNav from './sidenav/PageSideNav';
-import Content from './content/Content';
+import PageContent from './content/PageContent';
 
 const App = () => {
   return (
     <div className="App" >
       <PageSideNav />
-      <Content />
-      
+      <PageContent />
     </div>
   );
-}
+};
 
 export default App;
