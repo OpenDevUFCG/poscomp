@@ -22,5 +22,6 @@
         "react"
     ],
     "rules": {
+      "semi": "error"
     }
 }
