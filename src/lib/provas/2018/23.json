@@ -12,7 +12,7 @@
         "E": "Heapsort"
     },
     "resposta": "A",
-    "autor": [],
+    "autor": "1",
     "temas": ["Algoritmos de ordenação, Estrutura de dados"],
     "justificativa": "Os passos descritos no enunciado mostram as características do algoritmo de ordenação selection sort, até porque, utiliza a estratégia de ordenar através da seleção, encontrando o menor elemento da coleção, se caso for ordenado de forma crescente, sendo assim, posicioná-lo nas primeiras posições da coleção."
 }
