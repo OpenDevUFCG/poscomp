@@ -12,7 +12,7 @@
         "E": "Hoje é sábado e Marcos foi trabalhar."
     },
     "resposta": "C",
-    "autor": "1",
+    "autor": ["1"],
     "temas": ["Lógica matemática"],
     "justificativa": "A partir das premissas acima, podemos fazer algumas afirmações. Na premissa 4: Hoje, Alessandra não fez churrasco, ou seja, podemos inferir que o hoje referido na frase não é sábado. Dessa forma, Heide não vai à praia, Luiz não assiste futebol e Marcos não vai trabalhar. Logo, a partir dessas conclusões, podemos afirmar que Hoje não é sábado e Marcos não foi trabalhar."
 }
