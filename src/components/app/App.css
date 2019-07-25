@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  height: 100%;
+}
+
+.App {
+  font-family: 'Roboto', sans-serif;
+  height: 100%;
+  overflow: hidden;
+  display: flex;
+  box-sizing: border-box;
+  /* display: grid;
+  grid-template-areas: 'area1 area2';
+  grid-template-columns: 1fr 5fr; */
+}
+
+.App PageSideNav {
+  color: red;
+}
