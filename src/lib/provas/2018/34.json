@@ -1,0 +1,18 @@
+{
+    "ano": "2018",
+    "questao": "34",
+    "area": "Fundamentos da Computação",
+    "enunciado": "Quanto aos métodos de alocação de espaço em disco para arquivos, analise as afirmações abaixo e assinale V, se verdadeiras, ou F, se falsas.\n\n( ) Na alocação contígua, a alocação de espaço em disco para novos arquivos pode ser dificultada pelo problema de fragmentação externa.\n( ) A alocação interligada provê acesso eficiente tanto a arquivos de acesso sequencial quanto de acesso direto.\n( ) Na alocação indexada, cada arquivo possui um bloco de índice. Para arquivos grandes, são necessários mecanismos que vinculem diferentes blocos de índices, como índices multinível, por exemplo.\n\nA ordem correta de preenchimento dos parênteses, de cima para baixo, é:",
+    "img_url": [],
+    "alternativas": {
+        "A": "V – V – F.", 
+        "B": "F – V – V.", 
+        "C": "V – F – F.", 
+        "D": "F – F – V.", 
+        "E": "V – F – V."
+    },
+    "resposta": "E",
+    "autor": ["2"],
+    "temas": ["Sistemas operacionais", "Alocação de espaço"],
+    "justificativa": "A alocação contígua é o método de alocação de espaço em disco que consiste em armazenar os arquivos em blocos sequencialmente dispostos. Com a adição e remoção de arquivos, os segmentos livres vão se fragmentando em pedaços por todo o disco, de modo que a existência de blocos livres não implica na possibilidade de alocar um novo arquivo, pois ele pode ser maior que qualquer um destes blocos. Assim, a primeira afirmação está correta. A definição de alocação indexada apresentada na terceira afirmação é adequada e, portanto, ela também está correta.\nA alocação interligada consiste em manter os arquivos como uma lista encadeada de blocos de disco, de modo que cada bloco deve possuir um ponteiro o bloco seguinte. Apesar de lidar bem com a fragmentação, o acesso a arquivos sempre será sequencial e, dada a necessidade de percorrer os blocos através dos ponteiros, será lento para blocos intermediários. Assim, a segunda afirmação está incorreta, de modo que alternativa E responde corretamente a questão."
+}

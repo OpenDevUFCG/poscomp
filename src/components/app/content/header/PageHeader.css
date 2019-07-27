@@ -1,0 +1,8 @@
+.pageHeader {
+  display: inline-flex;
+  flex-direction: column;
+  flex-shrink: 0;
+  padding: 1em;
+  margin: 1em;
+  border-bottom: 2px solid #dc6060;
+}

@@ -1,0 +1,18 @@
+{
+    "ano": "2018",
+    "questao": "15",
+    "area": "Matemática",
+    "enunciado": "Considere as premissas a seguir verdadeiras: Premissa 1: Se hoje é sábado, então Heide vai à praia e Luiz vai assistir ao jogo de futebol. Premissa 2: Se Heide vai à praia ou Marcos vai trabalhar, então Alessandra faz o churrasco. Premissa 3: Hoje, Luiz foi assistir ao jogo de futebol. Premissa 4: Hoje, Alessandra não fez o churrasco. É correto concluir:",
+    "img_url": [],
+    "alternativas": {
+        "A": "Hoje é sábado e Heide foi à praia.", 
+        "B": "Hoje não é sábado e Heide foi à praia.", 
+        "C": "Hoje não é sábado e Marcos não foi trabalhar.", 
+        "D": "Heide foi à praia ou Marcos foi trabalhar.", 
+        "E": "Hoje é sábado e Marcos foi trabalhar."
+    },
+    "resposta": "C",
+    "autor": ["1"],
+    "temas": ["Lógica matemática"],
+    "justificativa": "A partir das premissas acima, podemos fazer algumas afirmações. Na premissa 4: Hoje, Alessandra não fez churrasco, ou seja, podemos inferir que o hoje referido na frase não é sábado. Dessa forma, Heide não vai à praia, Luiz não assiste futebol e Marcos não vai trabalhar. Logo, a partir dessas conclusões, podemos afirmar que Hoje não é sábado e Marcos não foi trabalhar."
+}
