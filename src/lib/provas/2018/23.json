@@ -1,0 +1,18 @@
+{
+    "ano": "2018",
+    "questao": "23",
+    "area": "Fundamentos da computação",
+    "enunciado": "Selecione o menor item do vetor e, a seguir, troque-o com o item que está na primeira posição do vetor. Repita essas duas operações com os n – 1 itens restantes, depois comos n – 2 itens, até que reste apenas um elemento. Qual é o método de ordenação descrito?",
+    "img_url": [],
+    "alternativas": {
+        "A": "Por seleção", 
+        "B": "Por inserção", 
+        "C": "Shellsort", 
+        "D": "Quicksort", 
+        "E": "Heapsort"
+    },
+    "resposta": "A",
+    "autor": ["1"],
+    "temas": ["Algoritmos de ordenação, Estrutura de dados"],
+    "justificativa": "Os passos descritos no enunciado mostram as características do algoritmo de ordenação selection sort, até porque, utiliza a estratégia de ordenar através da seleção a fim de encontrar o menor elemento e, caso a ordenação seja feita de forma crescente, posicioná-lo nas primeiras posições da coleção."
+}
