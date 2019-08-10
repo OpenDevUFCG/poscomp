@@ -14,7 +14,7 @@ const Main = () => {
 
   const handleBackdropClick = () => {
     setSideDrawerOpen(false);
-  }
+  };
 
   return(
     <main className="Main">
