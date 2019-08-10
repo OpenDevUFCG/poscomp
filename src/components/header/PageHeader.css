@@ -1,8 +1,29 @@
-.pageHeader {
-  display: inline-flex;
-  flex-direction: column;
+.page-header {
+  display: flex;
   flex-shrink: 0;
+  align-items: center;
   padding: 1em;
   margin: 1em;
   border-bottom: 2px solid #dc6060;
+}
+
+.header-title {
+  margin-left: 30px;
+}
+
+@media (min-width: 801px) {
+  .header-toggle-button {
+    display: none;
+  }
+
+  .header-title {
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 800px) {
+  .page-header {
+    padding: 0.5rem;
+    margin: 0.5rem;
+  }
 }

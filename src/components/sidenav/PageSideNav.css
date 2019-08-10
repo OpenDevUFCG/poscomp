@@ -1,13 +1,28 @@
-.PageSideNav {
-  padding: 0.5rem 1.5em;
-  height: 100%;
-  width: 22vw;
+.drawer {
+  overflow: hidden;
+  padding: 0.5rem 1em;
+  /* height: 100%; */
+  width: 300px;
   flex-shrink: 0;
   border-right: 1px solid #ddd;
-  color: #aaa;
+  background-color: #fff;
+  box-sizing: border-box;
 }
 
-.PageSideNav p {
-  font-size: 12px;
-  font-weight: bold;
+@media (max-width: 800px) {
+  .drawer {
+    width: 70%;
+    box-shadow: 2px 0 10px rgba(0, 0, 0, 0.3);
+    height: 100%;
+    position: fixed;
+    visibility: hidden;
+    transform: translateX(-110%);
+    transition: all 0.5s ease-in-out;
+    z-index: 200;
+  }
+
+  .drawer.open {
+    visibility: visible;
+    transform: translateX(0);
+  }
 }

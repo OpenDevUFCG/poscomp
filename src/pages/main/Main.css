@@ -2,7 +2,6 @@
   height: 100%;
   overflow: hidden;
   display: flex;
-  box-sizing: border-box;
   /* display: grid;
   grid-template-areas: 'area1 area2';
   grid-template-columns: 1fr 5fr; */
@@ -14,4 +13,9 @@
   padding: 1em;
   display: flex;
   flex-direction: column;
+  transition: all .2s;
+}
+
+.header {
+  width: 100%;
 }
