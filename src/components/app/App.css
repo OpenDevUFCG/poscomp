@@ -3,23 +3,14 @@
 * {
   margin: 0;
   padding: 0;
-}
-
-html {
-  height: 100%;
-}
-
-.App {
-  font-family: 'Roboto', sans-serif;
-  height: 100%;
-  overflow: hidden;
-  display: flex;
+  outline: 0;
   box-sizing: border-box;
-  /* display: grid;
-  grid-template-areas: 'area1 area2';
-  grid-template-columns: 1fr 5fr; */
 }
 
-.App PageSideNav {
-  color: red;
+html, body, #root, .fill-container {
+  height: 100%;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
 }

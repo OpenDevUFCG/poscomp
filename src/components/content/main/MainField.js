@@ -1,7 +1,7 @@
 import React from 'react';
 import './MainField.css';
 
-import KatexRender from '../../../render/KatexRender';
+import KatexRender from '../../render/KatexRender';
 
 const stringLatex = 
   `\\begin{pmatrix}\n

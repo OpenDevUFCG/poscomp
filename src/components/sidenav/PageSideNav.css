@@ -1,0 +1,13 @@
+.PageSideNav {
+  padding: 0.5rem 1.5em;
+  height: 100%;
+  width: 22vw;
+  flex-shrink: 0;
+  border-right: 1px solid #ddd;
+  color: #aaa;
+}
+
+.PageSideNav p {
+  font-size: 12px;
+  font-weight: bold;
+}

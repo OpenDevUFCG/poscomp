@@ -1,0 +1,17 @@
+.Main {
+  height: 100%;
+  overflow: hidden;
+  display: flex;
+  box-sizing: border-box;
+  /* display: grid;
+  grid-template-areas: 'area1 area2';
+  grid-template-columns: 1fr 5fr; */
+}
+
+.pageContent {
+  height: 100%;
+  width: 100%;
+  padding: 1em;
+  display: flex;
+  flex-direction: column;
+}
