@@ -2,14 +2,14 @@
     "ano": "2018",
     "questao": "1",
     "area": "Matemática",
-    "enunciado": "",
+    "enunciado": "Para quais valores de a, b, c, d, e, f a matriz J = `begin{pmatrix}\n3 & 0 & 0 & 0 \\\\\n a & 2 & d & e \\\\\n b & 0 & 1 & 0 \\\\\n c & 0 & f & 0 \n \\end{pmatrix}\n` é diagonalizável?",
     "img_url": [],
     "alternativas": {
-        "A": "", 
-        "B": "", 
-        "C": "", 
-        "D": "", 
-        "E": ""
+        "A": "Não pode ser diagonalizável.", 
+        "B": "Apenas para números inteiros.", 
+        "C": "Somente para números positivos.", 
+        "D": "Para quaisquer valores.", 
+        "E": "Somente para valores nulos."
     },
     "resposta": "",
     "autor": [],
