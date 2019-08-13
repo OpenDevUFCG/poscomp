@@ -5,11 +5,8 @@ import { faBars } from '@fortawesome/free-solid-svg-icons';
 import './ToggleButton.css';
 
 const ToggleButton = ({ click }) => {
-  return(
-    <button
-    type="button"
-    onClick={click}
-    className="toggle-button" >
+  return (
+    <button type="button" onClick={click} className="toggle-button">
       <FontAwesomeIcon icon={faBars} />
     </button>
   );

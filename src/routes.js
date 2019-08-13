@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Route } from 'react-router-dom';
 import Main from './pages/main/Main';
 
 const Routes = () => {
-  return(
+  return (
     <Router>
       {/* Aqui devem estar as rotas */}
       <Route path="/" exact component={Main} />

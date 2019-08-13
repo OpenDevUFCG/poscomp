@@ -16,17 +16,13 @@ const Main = () => {
     setSideDrawerOpen(false);
   };
 
-  return(
+  return (
     <main className="Main">
-      <PageSideNav shown={sideDrawerOpen}/>
+      <PageSideNav shown={sideDrawerOpen} />
       <section className="page">
-        <PageHeader
-          drawerClickHandler={handleDrawerClick} />
-        
-        <Backdrop 
-          shown={sideDrawerOpen}
-          click={handleBackdropClick}
-        />
+        <PageHeader drawerClickHandler={handleDrawerClick} />
+
+        <Backdrop shown={sideDrawerOpen} click={handleBackdropClick} />
         <MainField />
       </section>
     </main>

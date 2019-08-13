@@ -4,7 +4,7 @@ import './PageHeader.css';
 import ToggleButton from '../toggleButton/ToggleButton';
 
 const PageHeader = ({ drawerClickHandler }) => {
-  return(
+  return (
     <header className="page-header">
       <div className="header-toggle-button">
         <ToggleButton click={drawerClickHandler} />
