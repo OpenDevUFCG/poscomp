@@ -19,7 +19,7 @@ const Main = () => {
   return(
     <main className="Main">
       <PageSideNav shown={sideDrawerOpen}/>
-      <section className="pageContent">
+      <section className="page">
         <PageHeader
           drawerClickHandler={handleDrawerClick} />
         

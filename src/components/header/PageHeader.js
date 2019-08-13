@@ -11,7 +11,7 @@ const PageHeader = ({ drawerClickHandler }) => {
       </div>
       <div className="header-title">
         <h1>POSCOMP</h1>
-        <div>Lorem ipsum dolor sit amet</div>
+        <p>Lorem ipsum dolor sit amet</p>
       </div>
     </header>
   );
