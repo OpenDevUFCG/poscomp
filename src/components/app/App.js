@@ -4,7 +4,7 @@ import './App.css';
 
 const App = () => {
   return (
-    <div className="App fill-container" >
+    <div className="fill-container" >
       <Routes />
     </div>
   );
