@@ -12,6 +12,7 @@
     "react-scripts": "3.0.1"
   },
   "scripts": {
+    "prettier": "prettier --write \"**/*.js\"",
     "lint": "eslint .",
     "start": "react-scripts start",
     "build": "react-scripts build",
