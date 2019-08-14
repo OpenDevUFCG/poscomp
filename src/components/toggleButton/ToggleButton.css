@@ -8,8 +8,3 @@
 .toggle-button:focus {
   outline: none;
 }
-
-.toggle-button-square {
-  height: 2px;
-  background-color: #222;
-}
