@@ -1,0 +1,5364 @@
+471_POSCOMP_NS_
+16/8/2018
+16:31:21
+ 
+Execução: Fundatec
+ 
+ 
+ 
+EXAME POSCOMP 2018
+ 
+MATEMÁTICA
+ 
+ 
+QUESTÃO
+ 
+01
+ 
+
+ 
+Para quais valores de
+ 
+a
+, 
+b
+, 
+c
+, 
+d
+, 
+e
+, 
+f
+ 
+a matriz
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+é diagonalizável?
+ 
+ 
+A)
+ 
+Não pode ser diagonalizável.
+ 
+B)
+ 
+Apenas para números inteiros.
+ 
+C)
+ 
+Somente para números positivos.
+ 
+D)
+ 
+Para quaisquer valor
+es.
+ 
+E)
+ 
+Somente para valores nulos.
+ 
+ 
+ 
+Q
+UESTÃO
+ 
+02
+ 
+
+ 
+Calcule as coordenadas de 
+
+
+
+
+
+
+na base 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+, considerando 
+
+
+
+
+
+
+
+,
+ 
+sendo as coordenadas: 
+
+
+
+
+
+
+
+.
+ 
+ 
+A)
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+B)
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+C)
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+D)
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+E)
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+QU
+ESTÃO
+ 
+03
+ 
+
+ 
+O vetor diretor de uma reta 
+r
+ 
+é 
+
+
+
+
+
+
+
+
+
+ 
+e passa pelo ponto P(
+-
+5, 
+-
+5). A outra 
+reta 
+s
+ 
+te
+m pendente m=
+-
+2 e passa pelo ponto N(0, 5). 
+Em relação à 
+disposição das retas, elas
+:
+ 
+ 
+A)
+ 
+São p
+erpendiculares.
+ 
+B)
+ 
+São p
+aralelas.
+ 
+C)
+ 
+Se cruzam.
+ 
+D)
+ 
+São t
+angentes.
+ 
+E)
+ 
+Não sã
+o retas.
+ 
+ 
+ 
+QUESTÃO
+ 
+04
+ 
+
+ 
+Dados os vetores 
+
+
+
+
+
+
+
+
+
+ 
+e 
+
+
+
+
+
+
+
+
+
+,
+ 
+calcule o produto escalar e o ângulo que 
+elas formam entre si:
+ 
+ 
+A)
+ 
+7; 107°
+ 
+B)
+ 
+7; 
+-
+107°
+ 
+C)
+ 
+-
+7; 72°
+ 
+D)
+ 
+7; 72°
+ 
+E)
+ 
+-
+7; 107°
+ 
+ 
+ 
+QUESTÃO
+ 
+05
+ 
+
+ 
+Calcule o limite de
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+:
+ 
+ 
+A)
+ 
+1
+ 
+B)
+ 
+5
+ 
+C)
+ 
+
+ 
+D)
+ 
+0
+ 
+E)
+ 
+3
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+471_POSCOMP_NS_
+16/8/2018
+16:31:21
+ 
+Execução: Fundatec
+ 
+ 
+ 
+EXAME POSCOMP 2018
+ 
+QUESTÃO
+ 
+06
+ 
+
+ 
+D
+etermine os valores de 
+a
+ 
+e 
+b
+ 
+para que a função abaixo seja contínua em todo o 
+seu domínio:
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+A)
+ 
+
+
+
+
+
+
+
+
+
+ 
+B)
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+C)
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+D)
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+E)
+ 
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+QUESTÃO
+ 
+07
+ 
+
+ 
+Determine a matriz inversa de 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+:
+ 
+A)
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+B)
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+C)
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+D)
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+E)
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+471_POSCOMP_NS_
+16/8/2018
+16:31:21
+ 
+Execução: Fundatec
+ 
+ 
+ 
+EXAME POSCOMP 2018
+ 
+QUESTÃO
+ 
+08
+ 
+
+ 
+O ponto P(3, 45°, 60°) está expresso em coordenadas esféricas. Encontre suas 
+coordenadas cartesianas:
+ 
+ 
+Ax = r . se
+n(
+
+).cos(
+
+)
+ 
+Ay= r.sen(
+
+).sen(
+
+)
+ 
+Az = r
+.
+cos(
+
+)
+ 
+ 
+A)
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+B)
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+C)
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+D)
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+E)
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+QUESTÃO
+ 
+09
+ 
+
+ 
+Simplifique
+ 
+por 
+Kar
+naugh
+ 
+a função cuja expressão, em termos canônicos, é
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+:
+ 
+ 
+A)
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+B)
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+C)
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+D)
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+E)
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+QUESTÃO
+ 
+10
+ 
+
+ 
+A primitiva de
+ 
+
+
+
+
+
+
+
+
+ 
+é:
+ 
+ 
+A)
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+B)
+ 
+
+
+
+
+
+
+
+ 
+C)
+ 
+
+
+
+
+
+
+ 
+D)
+ 
+
+
+
+
+ 
+E)
+ 
+
+ 
+ 
+ 
+ 
+QUESTÃO
+ 
+11
+ 
+
+ 
+Considere a proposição abaixo:
+ 
+ 
+
+Em toda turma da minha universidade, e
+xiste pelo menos um aluno canhoto.
+
+ 
+ 
+A negação da proposição acima é logicamente equivalente à proposição:
+ 
+ 
+A)
+ 
+Existe uma turma na minha universidade na qual há, no máximo, um aluno canhoto.
+ 
+B)
+ 
+Há, pelo menos, uma turma da minha universidade na qual não existe a
+luno canhoto.
+ 
+C)
+ 
+Não há turma na minha universidade na qual todos os alunos sejam canhotos.
+ 
+D)
+ 
+Em cada uma das turmas da minha universidade, não há aluno algum que seja canhoto.
+ 
+E)
+ 
+Em nenhuma turma da minha universidade, há algum aluno que seja canhoto.
+ 
+ 
+ 
+QUESTÃO
+ 
+1
+2
+ 
+
+ 
+A proposição 
+
+
+
+
+
+
+
+
+
+
+
+ 
+é equivalente
+ 
+a
+:
+ 
+ 
+A)
+ 
+Falso
+ 
+B)
+ 
+
+
+
+
+ 
+C)
+ 
+Verdadeiro
+ 
+D)
+ 
+
+
+
+ 
+E)
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+471_POSCOMP_NS_
+16/8/2018
+16:31:21
+ 
+Execução: Fundatec
+ 
+ 
+ 
+EXAME POSCOMP 2018
+ 
+QUESTÃO
+ 
+13
+ 
+
+ 
+Um motoqueiro possui 
+
+n
+
+ 
+entregas para realizar em 
+
+n
+
+ 
+pontos distintos de uma 
+cidade, podendo fazer a entrega em qualquer ordem. O entregador dis
+põe de uma tabela de 
+distâncias que informa o tempo exato para se locomover de moto entre cada par de pontos de 
+entrega. Considere distâncias assimétricas, ou seja, dist(a,b) e dist(b,a) podem ser diferentes. Se o 
+entregador resolver avaliar todas as possí
+veis soluções para escolher a sequência de entregas cuja 
+distância a ser percorrida seja mínima, quantas rotas ele iria avaliar para n=5?
+ 
+Resolva o problema 
+ignorando a distância que seria gasta para o entregador se locomover até o primeiro ponto de 
+entreg
+a.
+ 
+ 
+A)
+ 
+5.
+ 
+B)
+ 
+25.
+ 
+C)
+ 
+60.
+ 
+D)
+ 
+120.
+ 
+E)
+ 
+240.
+ 
+ 
+ 
+QUESTÃO
+ 
+14
+ 
+
+ 
+Seja um código de Hamming sistemático com a seguinte matriz de comprovação tal 
+que 
+
+
+
+
+
+
+
+
+
+
+:
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+Transmite
+-
+se a palavra código Y=0000
+000 e
+,
+ 
+durante a transmissão
+,
+ 
+se produzem erros nas 
+posições 2, 3, 4 e 5. Que mensagem de usuário descodificaríamos?
+ 
+ 
+A)
+ 
+X = 0100
+ 
+B)
+ 
+X = 0111
+ 
+C)
+ 
+X = 0011
+ 
+D)
+ 
+X = 0010
+ 
+E)
+ 
+X = 1001
+ 
+ 
+ 
+QUESTÃO
+ 
+15
+ 
+
+ 
+Considere as premissas a seguir verdadeiras:
+ 
+ 
+Premissa 1: Se hoje é sábado, en
+tão Heide vai à praia e Luiz vai assistir ao jogo de futebol.
+ 
+Premissa 2: Se Heide vai à praia ou Marcos vai trabalhar, então Alessandra faz o churrasco.
+ 
+Premissa 3: Hoje, Luiz foi assistir ao jogo de futebol.
+ 
+Premissa 4: Hoje, Alessandra não fez o churras
+co.
+ 
+ 
+É correto concluir:
+ 
+ 
+A)
+ 
+Hoje é sábado e Heide foi à praia.
+ 
+B)
+ 
+Hoje não é sábado e Heide foi à praia.
+ 
+C)
+ 
+Hoje não é sábado e Marcos não foi trabalhar.
+ 
+D)
+ 
+Heide foi à praia ou Marcos foi trabalhar.
+ 
+E)
+ 
+Hoje é sábado e Marcos foi trabalhar.
+ 
+ 
+ 
+QUESTÃO
+ 
+16
+ 
+
+ 
+Uma enquete fo
+i realizada com 50 pessoas sobre as preferências de leitura de duas 
+revistas, A e B. Observou
+-
+se que os que leem as duas revistas são o dobro 
+do 
+que os que leem 
+apenas a A, o triplo 
+do 
+que os que leem apenas a B e o quádruplo 
+do 
+que os que não leem nenhuma
+ 
+das duas revistas. Quantas pessoas leem a revista A?
+ 
+ 
+A)
+ 
+24
+ 
+B)
+ 
+30
+ 
+C)
+ 
+32
+ 
+D)
+ 
+36
+ 
+E)
+ 
+40
+ 
+ 
+ 
+471_POSCOMP_NS_
+16/8/2018
+16:31:21
+ 
+Execução: Fundatec
+ 
+ 
+ 
+EXAME POSCOMP 2018
+ 
+QUESTÃO
+ 
+17
+ 
+
+ 
+Considere o grafo G abaixo e as afirmações feitas sobre G:
+ 
+ 
+ 
+ 
+I.
+ 
+O grafo é planar.
+ 
+II.
+ 
+O menor caminho direcionado medido em número de arcos entre os nós D e F tem comprimento 
+2
+.
+ 
+III.
+ 
+DABCEF representa uma ordenação topológica válida dos nós do grafo.
+ 
+IV.
+ 
+Existe algum caminho direcionado entre D e todos os outros nós do grafo.
+ 
+V.
+ 
+O maior componente fortemente conexo de G é composto por um único nó, ou seja, não existe 
+em G um par de nós dist
+intos x e y que tenha um caminho direcionado entre x e y e um 
+caminho direcionado entre y e x.
+ 
+ 
+Quais estão corretas?
+ 
+ 
+A)
+ 
+Apenas II e III.
+ 
+B)
+ 
+Apenas I, II e 
+I
+V.
+ 
+C)
+ 
+Apenas I, III e V.
+ 
+D)
+ 
+Apenas I, II, III e V.
+ 
+E)
+ 
+I, II, III, IV e V
+.
+ 
+ 
+ 
+QUESTÃO
+ 
+18
+ 
+
+ 
+O tempo, t, de um determ
+inado processo
+,
+ 
+segue uma distribuição exponencial, tal 
+que 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+para 
+
+
+
+. Qual a probabilidade de a duração desse processo se
+r
+ 
+menor 
+do 
+que 10 segundos?
+ 
+ 
+A)
+ 
+15,8%.
+ 
+B)
+ 
+22,1%.
+ 
+C)
+ 
+25,0%.
+ 
+D)
+ 
+68,5%.
+ 
+E)
+ 
+91,8%.
+ 
+ 
+ 
+QUESTÃO
+ 
+19
+ 
+
+ 
+Considere um conjunto S com 
+
+n
+
+ 
+elementos distintos. 
+Considerando n=10, 
+q
+uantos subconjunto
+s de S com
+ 
+até 
+
+n
+
+ 
+elementos é possível formar?
+ 
+ 
+A)
+ 
+120
+.
+ 
+B)
+ 
+512
+.
+ 
+ 
+C)
+ 
+1024
+.
+ 
+D)
+ 
+1814400
+.
+   
+ 
+E)
+ 
+1240000
+.
+ 
+ 
+ 
+QUESTÃO
+ 
+20
+ 
+
+ 
+Calcule a média, a mediana e a moda da seguinte série de números: 5, 3, 6, 5, 4, 
+5, 2, 8, 6, 5, 4, 8, 3, 4, 5, 4, 8, 2, 5, 4.
+ 
+ 
+A)
+ 
+4,8; 5; 5
+ 
+B)
+ 
+4,8; 10; 20
+ 
+C)
+ 
+5,0; 
+10; 10
+ 
+D)
+ 
+4,8; 20; 10
+ 
+E)
+ 
+4,8; 5; 10
+ 
+ 
+471_POSCOMP_NS_
+16/8/2018
+16:31:21
+ 
+Execução: Fundatec
+ 
+ 
+ 
+EXAME POSCOMP 2018
+ 
+FUNDAMENTOS
+ 
+DA
+ 
+COMPUTAÇÃO
+ 
+ 
+QUESTÃO
+ 
+21
+ 
+
+ 
+Dada
+s
+ 
+as seguintes relações de recorrência:
+ 
+ 
+I.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+II.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+III.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+As relações de recorrência I, II, e III
+ 
+pertencem, nessa ordem, às classes de complexidade:
+ 
+ 
+A)
+ 
+
+
+
+
+
+, 
+
+
+
+
+
+, e 
+
+
+
+
+ 
+B)
+ 
+
+
+
+
+, 
+
+
+
+
+
+, e 
+
+
+
+
+
+ 
+C)
+ 
+
+
+
+
+
+
+
+, 
+
+
+
+
+
+, e 
+
+
+
+
+
+ 
+D)
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+, e 
+
+
+
+
+
+ 
+E)
+ 
+
+
+
+
+
+, 
+
+
+
+
+
+, e 
+
+
+
+
+
+ 
+ 
+ 
+QUESTÃO
+ 
+22
+ 
+
+ 
+Dado o trecho de código
+ 
+ 
+ 
+ 
+Assumindo que a instrução c=c+1 é 
+
+
+
+
+, a expressão que melhor define a ordem de complexidade 
+desse trec
+ho é
+:
+ 
+ 
+A)
+ 
+
+
+
+
+
+
+ 
+B)
+ 
+
+
+
+
+
+ 
+C)
+ 
+
+
+
+
+ 
+D)
+ 
+
+
+
+
+
+ 
+E)
+ 
+
+
+
+
+
+ 
+ 
+ 
+QUESTÃO
+ 
+23
+ 
+
+ 
+Selecione o menor item do vetor e
+,
+ 
+a seguir
+,
+ 
+troque
+-
+o com o item que está na 
+primeira posição do vetor. Repita essas duas operações com os 
+n 
+
+ 
+1 
+itens restantes, depois com 
+os 
+n 
+
+ 
+2 
+itens, até
+ 
+que reste apenas um elemento. Qual é o método de ordenação descrito?
+ 
+ 
+A)
+ 
+P
+or seleção
+.
+ 
+B)
+ 
+P
+or inserção
+.
+ 
+C)
+ 
+S
+hellsort
+.
+ 
+D)
+ 
+Q
+uicksort
+.
+ 
+E)
+ 
+H
+eapsort
+.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+471_POSCOMP_NS_
+16/8/2018
+16:31:21
+ 
+Execução: Fundatec
+ 
+ 
+ 
+EXAME POSCOMP 2018
+ 
+QUESTÃO
+ 
+24
+ 
+
+ 
+Sobre árvores binárias
+,
+ 
+é correto afirmar que:
+ 
+ 
+A)
+ 
+É
+ 
+uma árvore em que todo nó 
+interno conté
+m um registro e, para cada nó, a seguinte 
+propriedade é verdadeira: todos os registros com chaves menores estão na subárvore esquerda e 
+todos os registros com chaves maiores estão na subárvore direta. 
+ 
+B)
+ 
+A
+ 
+altura de um nó é o comprimento do caminho mais long
+o deste nó até um nó folha. A altura de 
+uma árvore é a altura do nó raiz. 
+ 
+C)
+ 
+S
+e o nível do nó raiz de uma árvore binária é zero; se um nó está no nível 
+i
+,
+ 
+a raiz de suas duas 
+subárvores está no nível 
+i+2
+. 
+ 
+D)
+ 
+O número de subárvores de um nó é chamado de grau. U
+m nó de grau dois é chamado de nó 
+externo ou nó folha. 
+ 
+E)
+ 
+Para
+ 
+encontrar um registro que conté
+m a chave x em uma árvore binária de pesquisa, primeiro 
+compare
+-
+a com a chave que está na raiz. Se é menor, vá para a subárvore da direita; se é maior, 
+vá para a su
+bárvo
+re da esquerda.  
+ 
+ 
+ 
+QUESTÃO
+ 
+25
+ 
+
+ 
+Para medir o custo de execução de um algoritmo
+,
+ 
+é comum definir uma função de 
+complexidade 
+f
+, em que
+ 
+f(n) 
+é a medida de tempo necessário para executar um algoritmo para um 
+problema de tamanho 
+n
+.
+ 
+Considere as afirmações
+ 
+abaix
+o sobre funções de complexidade:
+ 
+ 
+I.
+ 
+S
+e 
+f(n) 
+é uma medida de quantidade de tempo necessário para executar um algoritmo em um 
+problema de tamanho 
+n
+, então 
+f
+ 
+é chamada função de complexidade de tempo.
+ 
+II.
+ 
+S
+e 
+f(n) 
+é uma medida de quantidade de memória necessár
+ia para executar um algoritmo de 
+tamanho 
+n
+, então 
+f
+ 
+é chamada função de complexidade de espaço.
+ 
+III.
+ 
+A complexidade de tempo não representa o tempo diretamente, mas é estimada pelo número 
+de vezes que determinada operação relevante é executada.
+ 
+ 
+Quais estão cor
+retas?
+ 
+ 
+A)
+ 
+Apenas I.
+ 
+B)
+ 
+Apenas II.
+ 
+C)
+ 
+Apenas III.
+ 
+D)
+ 
+Apenas I e II.
+ 
+E)
+ 
+I, II e III.
+ 
+ 
+ 
+QUESTÃO
+ 
+26
+ 
+
+ 
+Sobre funções de transformação (
+hashing
+)
+,
+ 
+analise as seguintes assertivas
+:
+ 
+ 
+I.
+ 
+Se o número de chaves N e o tamanho da tabela M são iguais, então temos uma função de 
+transforma
+ção perfeita mínima, isto é, apenas um acesso à tabela é necessário e não há lugares 
+vazios na tabela. 
+ 
+II.
+ 
+Uma das formas de resolver as colisões é construir uma lista encadeada para cada endereço da 
+tabela, no qual as chaves com o mesmo endereço são encadead
+as em uma lista linear.
+ 
+III.
+ 
+Uma função transformação linear ocorre quando as chaves são localizadas em um único acesso, 
+não há espaço vazio na tabela e o processamento é realizado na ordem lexicográfica. 
+ 
+ 
+Quais estão corretas?
+ 
+ 
+A)
+ 
+Apenas I.
+ 
+B)
+ 
+Apenas II.
+ 
+C)
+ 
+Apenas III
+.
+ 
+D)
+ 
+Apenas I e II.
+ 
+E)
+ 
+I, II e III.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+471_POSCOMP_NS_
+16/8/2018
+16:31:21
+ 
+Execução: Fundatec
+ 
+ 
+ 
+EXAME POSCOMP 2018
+ 
+QUESTÃO
+ 
+27
+ 
+
+ 
+Considere o seguinte código em Linguagem C:
+ 
+ 
+ 
+ 
+Assinale
+ 
+a alternativa que corresponde à
+ 
+saída impressa na tela.  
+ 
+ 
+A)
+ 
+7   9    
+-
+1   7  
+-
+1   9
+ 
+6   10  
+-
+1   7  0  9
+ 
+ 
+B)
+ 
+7   9    
+-
+1   7  
+-
+1   9
+ 
+6   10  
+-
+1   6  
+-
+1  
+10
+ 
+ 
+C)
+ 
+7   9    
+-
+1   7  
+-
+1   9
+ 
+6   10  
+-
+1   3  
+-
+2  9
+ 
+ 
+D)
+ 
+7   9    
+-
+1   7  
+-
+1   9
+ 
+6   10  
+-
+1   4  
+-
+3  10
+ 
+ 
+E)
+ 
+7   9    
+-
+1   7  
+-
+1   9
+ 
+6   10  
+-
+1   5  
+-
+4  10
+ 
+ 
+ 
+QUESTÃO
+ 
+28
+ 
+
+ 
+De acordo com o diagrama de classes UML a seguir
+,
+ 
+assinale
+ 
+a alternativa correta.
+ 
+ 
+ 
+ 
+A)
+ 
+O relacio
+
+a diretamente com polimorfismo.
+ 
+B)
+ 
+
+a diretamente com polimorfismo.
+ 
+C)
+ 
+
+mo.
+ 
+D)
+ 
+O relacioname
+
+a diretamente com polimorfismo.
+ 
+E)
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+471_POSCOMP_NS_
+16/8/2018
+16:31:21
+ 
+Execução: Fundatec
+ 
+ 
+ 
+EXAME POSCOMP 2018
+ 
+QUESTÃO
+ 
+29
+ 
+
+ 
+Um algoritmo de compressão toma como entrada uma sequência de bits 
+(
+bi
+tstream
+), e a converte em outro 
+bitstream
+, representando a entrada comprimida. Analise as
+ 
+assertivas
+ 
+abaixo sobre a t
+écnica de compressão de Huffman:
+ 
+ 
+I.
+ 
+É
+ 
+mais eficiente
+,
+ 
+para compressão de arquivos texto
+, do
+ 
+que 
+a técnica de codificação corrida (do 
+inglês R
+LE 
+
+ 
+run
+-
+length encoding
+).
+ 
+II.
+ 
+A técnica exige como entradas um 
+bitstream
+ 
+e um conjunto de códigos livres de prefixo, que 
+associa símbolos a um conjunto de bits. 
+ 
+III.
+ 
+O 
+bitstream
+ 
+comprimido resultante inclui o conjunto de códigos utilizado para realizar a 
+compress
+ão.
+ 
+ 
+Quais estão corretas?
+ 
+ 
+A)
+ 
+Apenas I.
+ 
+B)
+ 
+Apenas II.
+ 
+C)
+ 
+Apenas III.
+ 
+D)
+ 
+Apenas I e II.
+ 
+E)
+ 
+Apenas I e III.
+ 
+ 
+ 
+QUESTÃO
+ 
+30
+ 
+
+ 
+Assinale a alternativa que conté
+m uma estrutura de controle que permite que 
+coleções de instruções, na linguagem de programação C, sejam executadas r
+epetidamente com o 
+controle de execução baseado em uma expressão booleana ao invés de um contador. 
+ 
+ 
+A)
+ 
+for
+ 
+B)
+ 
+if
+ 
+C)
+ 
+while
+ 
+D)
+ 
+switch
+ 
+E)
+ 
+else
+ 
+ 
+ 
+QUESTÃO
+ 
+31
+ 
+
+ 
+Assinale a alternativa correta em relação ao Paradigma Imperativo de Linguagens 
+de Programação.
+ 
+ 
+A)
+ 
+Não é baseado na a
+rquitetura de Von Neumann.
+ 
+B)
+ 
+É paradigma 
+de linguagens não tipadas.
+ 
+C)
+ 
+É paradigma de linguagens orientadas a objeto.
+ 
+D)
+ 
+É baseado na arquitetura de Harvard.
+ 
+E)
+ 
+Descreve
+ 
+uma
+ 
+sequência
+ 
+de
+ 
+passos
+ 
+que
+ 
+mudam
+ 
+o
+ 
+estado
+ 
+de
+ 
+um
+ 
+programa.
+ 
+ 
+ 
+QUESTÃO
+ 
+32
+ 
+
+ 
+Assinale a alternativa 
+correta sobre as definições básicas de grafos.
+ 
+ 
+A)
+ 
+Um hipergrafo é um grafo direcionado em que cada aresta conecta dois vértices apenas. 
+ 
+B)
+ 
+Um grafo ponderado é um grafo não direcionado no qual todos os pares de vértices são 
+adjacentes entre si. 
+ 
+C)
+ 
+Uma floresta é
+ 
+um grafo não direcionado acíclico e conectado. 
+ 
+D)
+ 
+Uma árvore livre é um grafo não direcionado acíclico, podendo ou não ser conectado.
+ 
+E)
+ 
+Um grafo direcionado é fortemente conectado se cada dois vértices quaisquer forem alcançáveis a 
+partir um do outro.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+471_POSCOMP_NS_
+16/8/2018
+16:31:21
+ 
+Execução: Fundatec
+ 
+ 
+ 
+EXAME POSCOMP 2018
+ 
+QUESTÃO
+ 
+33
+ 
+
+ 
+Quando um programa precisa classificar uma matriz de objetos de dados numéricos 
+de algum tipo, normalmente usa um subprograma (ou função) para o processo de classificação. No 
+ponto em que o processo de classificação é necessário, uma instruç
+ão como 
+sort_int(list, list_len) 
+ 
+é 
+colocada no programa. Essa chamada é um exemplo de abstração de
+:
+ 
+ 
+A)
+ 
+D
+ados
+.
+ 
+B)
+ 
+E
+ncapsulamento
+.
+ 
+C)
+ 
+R
+epetição
+.
+ 
+D)
+ 
+C
+ondição
+.
+ 
+E)
+ 
+P
+rocesso
+.
+ 
+ 
+ 
+QUESTÃO
+ 
+34
+ 
+
+ 
+Quanto aos métodos de alocação de espaço em disco para arquivos, analise as 
+afirmaçõe
+s abaixo e assinale V
+,
+ 
+se verdadeira
+s
+, ou F, se falsa
+s
+.
+ 
+ 
+(  )
+ 
+Na alocação contígua, a alocação de espaço em disco para novos arquivos pode ser dificultada 
+pelo problema de fragmentação externa.
+ 
+(  )
+ 
+A alocação interligada provê acesso eficiente tanto a arquivos de a
+cesso sequencial quanto de 
+acesso direto.
+ 
+(  )
+ 
+Na alocação indexada, cada arquivo possui um bloco de índice. Para arquivos grandes, são 
+necessários mecanismos que vinculem diferentes blocos de índices, como índices multinível, por 
+exemplo.
+ 
+ 
+A ordem correta de p
+reenchimento dos parênteses, de cima para baixo, é:
+ 
+ 
+A)
+ 
+V 
+
+ 
+V 
+
+ 
+F.
+ 
+B)
+ 
+F 
+
+ 
+V 
+
+ 
+V.
+ 
+C)
+ 
+V 
+
+ 
+F 
+
+ 
+F.
+ 
+D)
+ 
+F 
+
+ 
+F 
+
+ 
+V.
+ 
+E)
+ 
+V 
+
+ 
+F 
+
+ 
+V.
+ 
+ 
+ 
+QUESTÃO
+ 
+35
+ 
+
+ 
+As árvores 
+B+ são estruturas usadas 
+para indexar campos de pesquisa
+ 
+e tornar 
+eficiente o acesso a registros armazenados com base nos 
+valores destes campos. 
+Analise as 
+afirmações
+ 
+abaixo sobre árvores B+, assinalando V
+, se
+ 
+verdadeira
+s
+, ou F
+, se
+ 
+falsa
+s
+.
+ 
+ 
+(  )
+ 
+Os nodos folha são geralmente ligados entre si para proporcionar acesso ordenado aos registros 
+a partir do campo de pesquisa.
+ 
+(  )
+ 
+Todos os no
+dos da árvore possuem valores relativos ao campo indexado, bem como ponteiros 
+para o registro correspondente (ou para o bloco que contém o registro). 
+ 
+(  )
+ 
+Alguns valores do campo indexado que aparecem em nós folhas são repetidos em nós não folha 
+da árvore.
+ 
+ 
+A 
+ordem correta de preenchimento dos parênteses, de cima para baixo, é:
+ 
+ 
+A)
+ 
+V 
+
+ 
+F 
+
+ 
+F
+.
+ 
+B)
+ 
+V 
+
+ 
+V
+ 
+
+ 
+F.
+ 
+C)
+ 
+F 
+
+ 
+V 
+
+ 
+V.
+ 
+D)
+ 
+F 
+
+ 
+F 
+
+ 
+F.
+ 
+E)
+ 
+V 
+
+ 
+F 
+
+ 
+V.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+471_POSCOMP_NS_
+16/8/2018
+16:31:21
+ 
+Execução: Fundatec
+ 
+ 
+ 
+EXAME POSCOMP 2018
+ 
+QUESTÃO
+ 
+36
+ 
+
+ 
+As arestas são exploradas a partir do vértice 
+v 
+mais recentemente descoberto que 
+ainda possui arestas não e
+xploradas saindo dele. Quando todas as arestas adjacentes a 
+v 
+tiverem 
+sido exploradas, a busca anda para trás para explorar vértices que saem do vértice do qual 
+v 
+foi 
+descoberto. O processo continua até que sejam descobertos todos os vértices alcançáveis a
+ 
+parti
+r do 
+vértice original. Qual algoritmo de grafos 
+possui a estratégia descrita acima?  
+ 
+ 
+A)
+ 
+Ordenação topológica.
+ 
+B)
+ 
+Busca em profundidade.
+ 
+C)
+ 
+Componentes fortemente conectados.
+ 
+D)
+ 
+Árvore geradora mínima.
+ 
+E)
+ 
+Busca em largura.
+ 
+ 
+ 
+QUESTÃO
+ 
+37
+ 
+
+ 
+Sobre ordenação topológica
+ 
+em grafos
+,
+ 
+é correto afirmar que:
+ 
+ 
+A)
+ 
+A busca em largura é utilizada para obter a ordenação topológica de um grafo direcionado 
+acíclico.
+ 
+B)
+ 
+A ordenação topológica de um grafo pode ser vista como uma ordenação de suas arestas ao 
+longo de uma linha horizontal, de
+ 
+tal forma que todos os vértices estão classificados em ordem 
+crescente. 
+ 
+C)
+ 
+A ordenação topológica de um grafo direcionado acíclico 
+G=(V,A)
+ 
+é uma ordenação linear de 
+todos os seus vértices tal que G contém uma aresta 
+(u, v)
+, então 
+u
+ 
+aparece antes de v. 
+ 
+D)
+ 
+A bu
+sca binária é utilizada para obter a ordenação topológica de um grafo cíclico não direcionado.
+ 
+E)
+ 
+O algoritmo para obter a ordenação topológica de um grafo direcionado usa o transposto do grafo 
+que consiste de todas as arestas com as suas direções invertidas.
+ 
+ 
+ 
+ 
+QUESTÃO
+ 
+38
+ 
+
+ 
+Sobre tipos de dados
+,
+ 
+é correto afirmar que: 
+ 
+ 
+A)
+ 
+Tipos 
+booleanos
+ 
+são valores que são mantidos fixos pelo compilador.
+ 
+B)
+ 
+O 
+double
+ 
+é um tipo inteiro duplo com menor precisão do que o tipo inteiro. 
+ 
+C)
+ 
+A faixa de valores dos tipos inteiros tem soment
+e dois elementos: um para verdadeiro e outro 
+para falso.
+ 
+D)
+ 
+Um
+a
+ 
+conversão de tipos implícita consiste em uma modificação do tipo de dados executado, 
+automaticamente, pelo compilador.
+ 
+E)
+ 
+Vetores, matrizes e ponteiros são exemplos de tipos de dados primitivos (bás
+icos). 
+ 
+ 
+ 
+QUESTÃO
+ 
+39
+ 
+
+ 
+Considere os seguintes formalismos:
+ 
+ 
+I.
+ 
+Autômatos finitos.
+ 
+II.
+ 
+Autômatos finitos com uma pilha.
+ 
+III.
+ 
+Autômatos finitos com duas pilhas.
+ 
+ 
+Quais contêm
+ 
+SOMENTE os forma
+lismos nos quais a variante não 
+determinística reconhece o mesmo 
+conjunto de li
+nguagens que a r
+espectiva versão determinística?
+ 
+ 
+A)
+ 
+Apenas I.
+ 
+B)
+ 
+Apenas II.
+ 
+C)
+ 
+Apenas I e III.
+ 
+D)
+ 
+Apenas II e III.
+ 
+E)
+ 
+I, II e III.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+471_POSCOMP_NS_
+16/8/2018
+16:31:21
+ 
+Execução: Fundatec
+ 
+ 
+ 
+EXAME POSCOMP 2018
+ 
+QUESTÃO
+ 
+40
+ 
+
+ 
+Considere a gramática G descrita a seguir: conjunto de terminais {a,c}, conjunto 
+de 
+não 
+terminais {S,A}, símbolo inici
+al S e contendo as produções abaixo:
+ 
+ 
+S 
+-
+> AcS
+ 
+S 
+-
+> A
+ 
+A 
+-
+> aAa
+ 
+A 
+-
+> a
+ 
+ 
+Considere também o autômato finito A sobre o alfabeto {a,c}, com conjunto de estados {q0,q1,q2} 
+
+ 
+dos quais q0 é inicial e q1 é final 
+
+ 
+e com função de transição de estados determinada 
+pelo 
+seguinte grafo:
+ 
+ 
+ 
+ 
+Seja
+ 
+L(G) a linguagem gerada pela gramática G e L(A) a linguag
+em reconhecida pelo autômato A, 
+a
+ssinale a alternativa correta.
+ 
+ 
+A)
+ 
+L(G) é regular e L(A) é subconjunto próprio de L(G).
+ 
+B)
+ 
+L
+(G) não é regular e L(A) é subconjunto próprio de 
+L(G).
+ 
+C)
+ 
+L(A) = L(G).
+ 
+D)
+ 
+L(G) é regular e L(G) é subconjunto próprio de L(A).
+ 
+E)
+ 
+L(G) não é regular e L(G) é subconjunto próprio de L(A).
+ 
+ 
+ 
+QUESTÃO
+ 
+41
+ 
+
+ 
+Abaixo são apresentadas duas linguagens f
+ormais sobre o alfabeto {a,b,c}:
+ 
+ 
+L1 = { a
+n
+b
+n
+ 
+| n>1 }
+ 
+L2 = { b
+n
+a
+p
+c
+q
+ 
+| n
+
+0, p
+
+0, q
+
+0 }
+ 
+ 
+Considere as seguintes afirmações:
+ 
+ 
+I.
+ 
+L1 é uma linguagem regular.
+ 
+II.
+ 
+L2 é uma linguagem regular.
+ 
+III.
+ 
+L2 é uma linguagem livre de contexto.
+ 
+ 
+Quais estão corretas?
+ 
+ 
+A)
+ 
+Apenas I.
+ 
+B)
+ 
+Apenas II.
+ 
+C)
+ 
+Apenas I e III.
+ 
+D)
+ 
+Apenas II e III.
+ 
+E)
+ 
+I, II e III.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+471_POSCOMP_NS_
+16/8/2018
+16:31:21
+ 
+Execução: Fundatec
+ 
+ 
+ 
+EXAME POSCOMP 2018
+ 
+QUESTÃ
+O
+ 
+42
+ 
+
+ 
+Um bit de paridade par ou ímpar pode ser adicionado a uma palavra de N bits para 
+indicar se o número de bits que valem 1 na palavra é par ou ímpar. Sobre paridade e bit de 
+paridade, 
+analise as assertivas abaixo
+:
+ 
+ 
+I.
+ 
+Usa
+-
+se normalmente as portas lógicas
+ 
+OR ou NOR para calcular e gerar o bit de paridade. 
+ 
+II.
+ 
+O bit de paridade par da palavra de 8 bits 00011100 é 1. 
+ 
+III.
+ 
+A palavra de 8 bits 10100011 é enviada por um canal de comunicação de dados com bit de 
+paridade par 0. Se um dos bits da palavra inverter durante
+ 
+a transmissão devido a ruído, a nova 
+paridade calculada desta palavra na chegada da transmissão será 1, e
+,
+ 
+com isso
+,
+ 
+detecta
+-
+se um 
+erro. 
+ 
+IV.
+ 
+Um bit de paridade em uma palavra de N bits é capaz de detectar até dois bits errados. 
+ 
+V.
+ 
+Para calcular a paridade de u
+ma palavra de 4 bits
+,
+ 
+serão necessárias 3 portas XOR ou 3 portas 
+XNOR. 
+ 
+ 
+Quais estão corretas?
+ 
+ 
+A)
+ 
+Apenas I e III.
+ 
+B)
+ 
+Apenas II e IV.
+ 
+C)
+ 
+Apenas II e V. 
+ 
+D)
+ 
+Apenas II, III e V.
+ 
+E)
+ 
+I, 
+II, III, IV e V. 
+ 
+ 
+ 
+QUESTÃO
+ 
+43
+ 
+
+ 
+Com base na figura abaixo, a
+nalise as assertivas que seg
+uem:
+ 
+ 
+ 
+ 
+ 
+I.
+ 
+A saída da função F está no valor lógico 1 quando as entradas a, b, c estão
+,
+ 
+respectivamente
+,
+ 
+nos valores lógicos 0,1,0 ou 0,0,1. 
+ 
+II.
+ 
+Basta a entrada estar no valor lógico 0 
+para 
+que a saída da função F atin
+ja
+ 
+o valor lógico 0 
+também. 
+ 
+III.
+ 
+A função boo
+leana da função F pode ser representada por:
+ 
+IV.
+ 
+Se os transistores NMOS controlados pelas entradas b e c estão conduzindo, então a saída da 
+função F está no valor lógico 0.
+ 
+V.
+ 
+Usando o teorema D
+e M
+organ, podemos afirmar que a função booleana F é equivalente a: 
+ 
+ 
+ 
+Quais estão corretas?
+ 
+ 
+A)
+ 
+Apenas II e III.
+ 
+B)
+ 
+Apenas II e IV.
+ 
+C)
+ 
+Apenas I, III e IV.
+ 
+D)
+ 
+Apenas I, III e V. 
+ 
+E)
+ 
+Apenas 
+I, III, IV e V.
+ 
+ 
+ 
+471_POSCOMP_NS_
+16/8/2018
+16:31:21
+ 
+Execução: Fundatec
+ 
+ 
+ 
+EXAME POSCOMP 2018
+ 
+QUESTÃO
+ 
+44
+ 
+
+ 
+Considere um computador no qual o interpretador do nível 0 (hardware 
+interpretando o microcódigo) gasta 20 nanosegundo
+s
+ 
+(20x10
+-
+9
+ 
+segundos) por microinstrução, e o 
+interpretador do nível 1 (microcódigo interpretando a linguagem de máquina convencional) 
+necessita de 25 microinstruções para interpretar uma instrução de máquina convencional. Um 
+progr
+ama teste, já em linguagem 
+de má
+quina convencional, leva 50 segundos para executar. 
+ 
+ 
+a)
+ 
+Quanto tempo levará o programa teste para executar se o tempo para executar uma 
+microinstrução for aumentado para 30 nanosegundos? 
+ 
+b)
+ 
+Quanto tempo levará o programa teste para executar se uma instruç
+ão de máquina convencional 
+necessitar de somente 15 microinstruções para ser interpretada?
+ 
+ 
+A)
+ 
+a) T = 60 segundos e b) 15 segundos
+.
+ 
+B)
+ 
+a) T = 65 segundos e b) 20 segundos
+.
+ 
+C)
+ 
+a) T = 70 segundos e b) 25 segundos
+.
+ 
+D)
+ 
+a) T
+ 
+= 75 segundos e b) 30 segundos.
+ 
+E)
+ 
+a) T = 80 segund
+os e b) 35 segundos
+.
+ 
+ 
+ 
+ 
+QUESTÃO
+ 
+45
+ 
+
+ 
+Um impasse (
+deadlock
+) pode ser definido como a condição em que todo processo, 
+em um conjunto de processos, aguarda por um evento que somente outro processo desse conjunto 
+poderá fazer acontecer. De acordo com Coffman et
+ 
+al. (1971), as condições para que ocorra um 
+impasse (de recurso) são
+ 
+encadeamento circular de dois ou mais processos, exclusão mútua, posse 
+e espera de recursos
+,
+ 
+ 
+A)
+ 
+N
+ão preempção de recursos; ao menos três destas condições presentes ao mesmo tempo.
+ 
+B)
+ 
+N
+ão pree
+mpção de recursos; todas estas condições presentes ao mesmo tempo.
+ 
+C)
+ 
+P
+reempção de recursos; ao menos três destas condições presentes ao mesmo tempo.
+ 
+D)
+ 
+P
+reempção de recursos; todas estas condições presentes ao mesmo tempo.
+ 
+E)
+ 
+C
+ombinação de preempção e não preempçã
+o de recursos; todas estas condições presentes ao 
+mesmo tempo.
+ 
+ 
+ 
+QUESTÃO
+ 
+46
+ 
+
+ 
+No sistema operacional
+,
+ 
+existem três métodos fundamentais de realizar entrada e 
+saída (E/S). O método mais simples é c
+hamado de E/S _________, em que se
+ 
+tem a CPU realizando 
+todo
+ 
+o trabalho. Na E/S _________, a CPU não fica tão dedicada à rotina de E/S como no método 
+anterior, podendo realizar outras atividades enquanto a operação de E/S está em andamento. Já a 
+E/S _________ tem o menor consumo de CPU dentre os três métodos, porém
+, em geral, tem o 
+menor desempenho. 
+ 
+ 
+Assinale a alternativa que preenche, correta e respectivamente, as lacunas do trecho acima.
+ 
+ 
+A)
+ 
+usando interrupção 
+
+ 
+programada
+ 
+
+ 
+usando DMA
+ 
+B)
+ 
+p
+rogramada 
+
+ 
+usando interrupção 
+
+ 
+usando DMA
+ 
+C)
+ 
+usando inte
+rrupção 
+
+ 
+usando DMA 
+
+ 
+p
+rogramada
+ 
+D)
+ 
+usando DMA 
+
+ 
+programada 
+
+ 
+usando interrupção
+ 
+E)
+ 
+programada 
+
+ 
+usando DMA 
+
+ 
+usando interrupção
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+471_POSCOMP_NS_
+16/8/2018
+16:31:21
+ 
+Execução: Fundatec
+ 
+ 
+ 
+EXAME POSCOMP 2018
+ 
+QUESTÃO
+ 
+47
+ 
+
+ 
+Sobre a Máquina de Estados Finita com 5 estados (P,C,F,W,M) síncrona ao pulso de 
+subida do relógio, representada a seguir, 
+analise
+ 
+as assertivas abaixo:
+ 
+ 
+ 
+ 
+I.
+ 
+A máquina representada nesta questão é do tipo Moore
+,
+ 
+pois os valores das saídas 
+x
+ 
+e 
+y
+ 
+só 
+dependem do estado em que a máquina se encontra. 
+ 
+II.
+ 
+Para a saída 
+y
+ 
+atingir o valor 1 lógico após o reset da máquina
+,
+ 
+é necessário
+,
+ 
+pelo menos
+,
+ 
+2 
+pulsos de subida do relógio. 
+ 
+III.
+ 
+Após o reset da m
+áquina, se o valor de entrada 
+ficar em 0 por 3 subidas do relógio 
+consecutivas, a máquina atingirá
+ 
+o estado W. 
+ 
+IV.
+ 
+Quando a máquina 
+se encontra
+ 
+no estado F, o próximo estado da máquina
+,
+ 
+ao vir a subida do 
+rel
+ógio
+,
+ 
+é C se a=1 ou M se a = 0. 
+ 
+V.
+ 
+As saídas 
+x
+ 
+e 
+y
+ 
+só valem zero durante o reset da máquina. 
+ 
+ 
+Quais estão corretas?
+ 
+ 
+A)
+ 
+Apenas I e III.
+ 
+B)
+ 
+Apenas I e V.
+ 
+C)
+ 
+Apenas II e III. 
+ 
+D)
+ 
+Apenas II, III e IV.
+ 
+E)
+ 
+Apenas II, III e V. 
+ 
+ 
+ 
+QUESTÃO
+ 
+48
+ 
+
+ 
+Um computador tem uma cache de dois
+ 
+níveis. Suponha que 80% das referências à 
+informação seja
+m
+ 
+atendida
+s
+ 
+pela cache de primeiro nível, 15% pela cache de segundo nível e 5% 
+pela memória principal. Os tempos de acesso são 5 ns, 15 ns e 60 ns, respectivamente. Qual é o 
+tempo médio de acesso do
+ 
+sistema?
+ 
+ 
+A)
+ 
+09 ns
+.
+ 
+B)
+ 
+11 ns.
+ 
+C)
+ 
+15 ns
+.
+ 
+D)
+ 
+21 ns
+.
+ 
+E)
+ 
+25 ns
+.
+ 
+ 
+ 
+471_POSCOMP_NS_
+16/8/2018
+16:31:21
+ 
+Execução: Fundatec
+ 
+ 
+ 
+EXAME POSCOMP 2018
+ 
+QUESTÃO
+ 
+49
+ 
+
+ 
+Dado um disco com rotação de 2.400 RPM, com 120 cilind
+ros e 6
+ 
+trilhas por 
+cilindro, c
+ada trilha possui 16 setores e cada setor tem 512 bytes. Considerando que o tempo médio 
+de 
+seek
+ 
+é de 60 ms, o 
+tempo de 
+seek
+ 
+entre cilindros adjacente s é de 10 ms e o te
+mpo de 
+transferência é de 15 ms, q
+uanto tempo será necessário para ler 10 setores?
+ 
+ 
+A)
+ 
+0,0485 segundos.
+ 
+B)
+ 
+0,0685 segundos.
+ 
+C)
+ 
+0,0885 segundos.
+ 
+D)
+ 
+0,1285 segundos.
+ 
+E)
+ 
+0,1485 segundos.
+ 
+ 
+ 
+QUESTÃO
+ 
+50
+ 
+
+ 
+Qual 
+o número
+ 
+total de processos criados com 
+a execução do programa a seguir?
+ 
+Considere que todas as operações executadas serão realizadas com sucesso.
+ 
+ 
+ 
+ 
+A)
+ 
+Sete.
+ 
+B)
+ 
+Oito.
+ 
+C)
+ 
+Trinta e dois.
+ 
+D)
+ 
+Trinta e três.
+ 
+E)
+ 
+Sessenta e quatro.
+ 
+ 
+TECNOLOGIA
+ 
+DA
+ 
+COMPUTAÇÃO
+ 
+ 
+QUESTÃO
+ 
+51
+ 
+
+ 
+Quando um pr
+edicado da cláusula WHERE de uma consulta SQL aninhada referencia 
+algum atributo de uma relação presente na consulta externa, tais consultas são ditas 
+correlacionadas (ou correlatas). Seja Q uma consulta definida por SELECT DISTINCT SALARIO FROM 
+EMPRESA WH
+ERE SALARIO > ALL (SELECT Salario FROM EMPRESA) OR SALARIO < ANY (SELECT 
+Salario FROM EMPRESA).
+ 
+ 
+A expressão SQL que utiliza consultas correlacionadas e cujo res
+ultado é o mesmo resultado de Q
+ 
+é:
+ 
+ 
+A)
+ 
+SELECT DISTINCT Salario FROM EMPRESA AS E WHERE EXISTS (SEL
+ECT * FROM EMPRESA AS I 
+WHERE I.Salario = E.Salario)
+ 
+B)
+ 
+SELECT DISTINCT Salario FROM EMPRESA AS E WHERE EXISTS (SELECT * FROM EMPRESA AS I 
+WHERE I.Salario >= E.Salario)
+ 
+C)
+ 
+SELECT DISTINCT Salario FROM EMPRESA AS E WHERE EXISTS (SELECT * FROM EMPRESA AS I 
+WHERE I
+.Salario <= E.Salario)
+ 
+D)
+ 
+SELECT DISTINCT Salario FROM EMPRESA AS E WHERE EXISTS (SELECT * FROM EMPRESA AS I 
+WHERE I.Salario > E.Salario)
+ 
+E)
+ 
+SELECT DISTINCT Salario FROM EMPRESA AS E WHERE EXISTS (SELECT * FROM EMPRESA AS I 
+WHERE I.Salario < E.Salario)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+471_POSCOMP_NS_
+16/8/2018
+16:31:21
+ 
+Execução: Fundatec
+ 
+ 
+ 
+EXAME POSCOMP 2018
+ 
+QU
+ESTÃO 52 
+
+ 
+Com respeito à abordagem de cópia distinguida para o controle de concorrência de 
+banco de dados distribuídos, analise as afirmações abaixo e assinale V, se verdadeiras, ou F, se 
+falsas. 
+ 
+ 
+(  )
+ 
+Uma cópia particular de cada item de dados é eleita como 
+cópia distinguida, para que quaisquer 
+solicitações de bloqueio e desbloqueio sejam desviadas do site que contém tal cópia. 
+ 
+(  )
+ 
+Na técnica de site primário, quando uma transação obtém um 
+read_lock
+, todas as cópias do 
+item de dados devem ser atualizadas antes d
+e liberar o bloqueio.
+ 
+(  )
+ 
+A técnica de cópia primária tenta distribuir a carga de coordenação de bloqueio entre vários 
+sites.
+ 
+(  )
+ 
+O uso de site de backup para a técnica de site primário ameniza o problema de sobrecarga do 
+site primário, o que minimiza gargalos no 
+sistema.
+ 
+(  )
+ 
+A técnica de cópia primária em geral possui menor confiabilidade e menor disponibilidade do 
+que a técnica de site primário.
+ 
+ 
+A ordem correta de preenchimento dos parênteses, de cima para baixo, é: 
+ 
+ 
+A)
+ 
+V 
+
+ 
+F 
+
+ 
+F 
+
+ 
+V 
+
+ 
+V.
+ 
+B)
+ 
+F 
+
+ 
+V 
+
+ 
+F 
+
+ 
+F
+ 
+
+ 
+F.
+ 
+C)
+ 
+F 
+
+ 
+F 
+
+ 
+V 
+
+ 
+F 
+
+ 
+F.
+ 
+D)
+ 
+V 
+
+ 
+F 
+
+ 
+F 
+
+ 
+V 
+
+ 
+F.
+ 
+E)
+ 
+F 
+
+ 
+V 
+
+ 
+V 
+
+ 
+F 
+
+ 
+V.
+ 
+ 
+ 
+QUESTÃO
+ 
+53
+ 
+
+ 
+E
+m relação à gestão de riscos no gerenciamento de projetos de 
+software, analise as 
+afirmações
+ 
+abaixo, assinalando V
+, se
+ 
+verdadeira
+s
+, ou F
+, se
+ 
+falsa
+s
+.
+ 
+ 
+(  )
+ 
+Para identificar os riscos mais significati
+vos em um projeto, a análise de riscos deve associar a 
+cada risco uma medida representando sua probabilidade de ocorrência, e uma avaliação de seu 
+impacto. 
+ 
+(  )
+ 
+Existem diferentes estratégias para gerenciar riscos identificados. Um plano de contingência visa 
+r
+eduzir a probabilidade de ocorrência de um risco, e minimizar o seu impacto. 
+ 
+(  )
+ 
+A gerência de riscos é um processo contínuo, pois
+,
+ 
+à medida que o projeto avança, os riscos 
+gerenciados e as respectivas estratégias de gerência associadas podem se alterar.
+ 
+ 
+A o
+rdem correta de preenchimento dos parênteses, de cima para baixo, é:
+ 
+ 
+A)
+ 
+V 
+
+ 
+F 
+
+ 
+V.
+ 
+B)
+ 
+V 
+
+ 
+F 
+
+ 
+F.
+ 
+C)
+ 
+F 
+
+ 
+V 
+
+ 
+F. 
+ 
+D)
+ 
+F 
+
+ 
+F 
+
+ 
+V.
+ 
+E)
+ 
+V 
+
+ 
+V 
+
+ 
+V.
+ 
+ 
+ 
+QUESTÃO
+ 
+54
+ 
+
+ 
+Em Rede de Computadores, qual o nome do processo que permite fazer 
+tunelamento?
+ 
+ 
+A)
+ 
+Encapsulamento.
+ 
+B)
+ 
+Reescrita.
+ 
+C)
+ 
+Process
+amento.
+ 
+D)
+ 
+VPN.
+ 
+E)
+ 
+IPv6.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+471_POSCOMP_NS_
+16/8/2018
+16:31:21
+ 
+Execução: Fundatec
+ 
+ 
+ 
+EXAME POSCOMP 2018
+ 
+QUESTÃO
+ 
+55
+ 
+
+ 
+A paginação de sobra (
+shadow paging
+) é uma técnica útil na recuperação após 
+falhas em sistemas de bancos 
+de dados. Sobre essa técnica, assinale a alternativa 
+INCORRETA
+.
+ 
+ 
+A)
+ 
+O uso de logs e checkpoints são dispensáveis n
+o contexto multiusuário com transações 
+concorrentes.
+ 
+B)
+ 
+Quando uma página é atualizada, essa página muda de local no disco, se não ocorrer falha na 
+execução da transação.
+ 
+C)
+ 
+No início de uma transação, o diretório cujas entradas apontam para as páginas de dados 
+mais 
+recentes no disco (diretório atual) é copiado para um diretório de sombra.
+ 
+D)
+ 
+Durante a execução da transação, o diretório de sombra não é modificado.
+ 
+E)
+ 
+Na ocorrência de falha, o estado de banco de dados antes da execução da transação está 
+disponível por m
+eio do diretório de sombra.
+ 
+ 
+ 
+QUESTÃO
+ 
+56
+ 
+
+ 
+Analise
+ 
+as
+ 
+seguintes
+ 
+assertivas
+ 
+sobre a notação UML 2.0:
+ 
+ 
+I.
+ 
+Um diagrama de classes ressalta relações estruturais entre elementos classificadores, 
+tipicamente classes e interfaces.
+ 
+II.
+ 
+Diagramas de comunicação permitem m
+odelar a troca de mensagens entre objetos, enfatizando 
+as relações estruturais entre objetos/classes.
+ 
+III.
+ 
+Um diagrama de componentes tem por objetivo mostrar a estrutura de um sistema em termos 
+dos componentes de software que devem estar instalados em unidades
+ 
+de processamento (e.g. 
+servidores) para o correto funcionamento do software.
+ 
+ 
+Quais estão corretas?
+ 
+ 
+A)
+ 
+Apenas I.
+ 
+B)
+ 
+Apenas II.
+ 
+C)
+ 
+Apenas III.
+ 
+D)
+ 
+Apenas I e II.
+ 
+E)
+ 
+Apenas II e III.
+ 
+ 
+ 
+QUESTÃO
+ 
+57
+ 
+
+ 
+As etapas abaixo fazem parte do processo (
+pipeline
+) de visualização tridim
+ensional:
+ 
+ 
+1.
+ 
+Transformação de normalização e recorte.
+ 
+2.
+ 
+Transformação de visualização (câmera).
+ 
+3.
+ 
+Transformação de modelagem.
+ 
+4.
+ 
+Transformação de janela de visão (
+viewport
+).
+ 
+5.
+ 
+Transformação de projeção.
+ 
+ 
+A ordem correta em que essas etapas são realizadas no processo 
+é:
+ 
+ 
+A)
+ 
+3 
+
+ 
+2 
+
+ 
+5 
+
+ 
+1 
+
+ 
+4. 
+ 
+B)
+ 
+3 
+
+ 
+5 
+
+ 
+2 
+
+ 
+1 
+
+ 
+4. 
+ 
+C)
+ 
+2 
+
+ 
+1 
+
+ 
+4 
+
+ 
+5 
+
+ 
+3. 
+ 
+D)
+ 
+2 
+
+ 
+3 
+
+ 
+4 
+
+ 
+1 
+
+ 
+5. 
+ 
+E)
+ 
+1 
+
+ 
+3 
+
+ 
+2 
+
+ 
+4 
+
+ 
+5.  
+ 
+ 
+ 
+QUESTÃO
+ 
+58
+ 
+
+ 
+A técnica de mapeamento de textura baseada na aplicação de uma função de 
+perturbação no vetor normal da superfície, de forma que a ilumi
+nação desta seja afetada
+,
+ 
+é 
+denominada:
+ 
+ 
+A)
+ 
+Textura procedural
+.
+ 
+B)
+ 
+Textura sólida
+.
+ 
+C)
+ 
+Bump
+ 
+mapping
+.
+ 
+D)
+ 
+Frame mapping
+.
+ 
+E)
+ 
+Environment mapping
+.
+ 
+ 
+471_POSCOMP_NS_
+16/8/2018
+16:31:21
+ 
+Execução: Fundatec
+ 
+ 
+ 
+EXAME POSCOMP 2018
+ 
+QUESTÃO
+ 
+59
+ 
+
+ 
+A equalização de histograma de cores em uma imagem digital tem como objetivo:
+ 
+ 
+A)
+ 
+Destacar um determinado canal.
+ 
+B)
+ 
+Realç
+ar diferenças de tonalidade.
+ 
+C)
+ 
+Delimitar bordas.
+ 
+D)
+ 
+Eliminar informações estranhas.
+ 
+E)
+ 
+Converter para um novo modelo de cores.
+ 
+ 
+ 
+QUESTÃO
+ 
+60
+ 
+
+ 
+No modelo de referência ISO/OSI, qual camada torna possível a comunicação entre 
+computadores com diferentes representações
+ 
+de dados?
+ 
+ 
+A)
+ 
+Sessão.
+ 
+B)
+ 
+Apresentação.
+ 
+C)
+ 
+Aplicação.
+ 
+D)
+ 
+Transporte.
+ 
+E)
+ 
+Representação.
+ 
+ 
+ 
+QUESTÃO
+ 
+61
+ 
+
+ 
+A quantização de imagens pode ser entendida como um processo de:
+ 
+ 
+A)
+ 
+Conversão de cada amostra em uma observação discreta.
+ 
+B)
+ 
+Equalização da distribuição de cores.
+ 
+C)
+ 
+Correção da
+ 
+iluminação.
+ 
+D)
+ 
+Discretização dos valores de brilho.
+ 
+E)
+ 
+Mapeamento dos canais da imagem.
+ 
+ 
+ 
+QUESTÃO
+ 
+62
+ 
+
+ 
+Relacione a Coluna 1 à Coluna 2, associando os diferentes tipos de falha com as 
+suas descrições. 
+ 
+ 
+Coluna 1
+ 
+1.
+ 
+P
+or queda. 
+ 
+2.
+ 
+P
+or omissão. 
+ 
+3.
+ 
+D
+e transição de estado. 
+ 
+4.
+ 
+A
+rbitrária.
+ 
+ 
+Coluna 2
+ 
+(  )
+ 
+O servidor não consegue responder a requisições que chegam. 
+ 
+(  )
+ 
+O servidor se desvia do fluxo de controle correto. 
+ 
+(  )
+ 
+O servidor produz saídas que nunca deveriam ter produzido, mas não podem ser detectadas 
+como incorretas. 
+ 
+(  )
+ 
+O servidor pa
+r
+a de funcionar, mas estava funcionando corretamente até parar.
+ 
+ 
+A ordem correta de preenchimento dos parênteses, de cima para baixo, é:
+ 
+ 
+A)
+ 
+1 
+
+ 
+2 
+
+ 
+3 
+
+ 
+4.
+ 
+B)
+ 
+4 
+
+ 
+1 
+
+ 
+2 
+
+ 
+3.
+ 
+C)
+ 
+3 
+
+ 
+4 
+
+ 
+1 
+
+ 
+2.
+ 
+D)
+ 
+2 
+
+ 
+3 
+
+ 
+4 
+
+ 
+1.
+ 
+E)
+ 
+4 
+
+ 
+2 
+
+ 
+1 
+
+ 
+3.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+471_POSCOMP_NS_
+16/8/2018
+16:31:21
+ 
+Execução: Fundatec
+ 
+ 
+ 
+EXAME POSCOMP 2018
+ 
+QUESTÃO
+ 
+63
+ 
+
+ 
+O Autômato Finito Não 
+Determinista (AFND) abaixo foi construído utilizando o 
+algoritmo de Thompson tomando
+-
+se como base uma determi
+nada Expressão Regular (ER). Ess
+e 
+AFND deve ser transformado para um Autômato Finito Determinístico (AFD)
+,
+ 
+utilizando o algor
+itmo 
+de subconjuntos. Em relação à ER e à conversão AFND para AFD, considere as assertivas abaixo, 
+assinalando V, se verdadeiras, ou F, se falsas.
+ 
+ 
+(  )
+ 
+
+ 
+(  )
+ 
+
+ 
+(  )
+ 
+
+ 
+(  )
+ 
+O AFD resultante t
+em 4 estados.
+ 
+(  )
+ 
+O AFD resultante tem 5 estados.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A ordem correta de preenchimento dos parênteses, de cima para baixo, é:
+ 
+ 
+A)
+ 
+V 
+
+ 
+F 
+
+ 
+F 
+
+ 
+F 
+
+ 
+V.
+ 
+B)
+ 
+F 
+
+ 
+V 
+
+ 
+F 
+
+ 
+V 
+
+ 
+F.
+ 
+C)
+ 
+F 
+
+ 
+V 
+
+ 
+F 
+
+ 
+F 
+
+ 
+V.
+ 
+D)
+ 
+F 
+
+ 
+F 
+
+ 
+V 
+
+ 
+F 
+
+ 
+V.
+ 
+E)
+ 
+V
+ 
+
+ 
+F 
+
+ 
+V 
+
+ 
+V 
+
+ 
+F.
+ 
+ 
+ 
+QUESTÃO
+ 
+64
+ 
+
+ 
+Quando um pr
+ocesso na máquina 
+A
+ 
+chama um procedimento na máquina 
+B
+, o 
+processo chamador em 
+A
+ 
+é suspenso, e a execução do procedimento chamado ocorre em 
+B
+. 
+Informações podem ser transportadas do chamador para quem foi chamado nos parâmetros e 
+podem voltar no resultado 
+do procedimento. Absolutamente nada da troca de mensagens é visível 
+para o programado
+r. Esse método é conhecido como:
+ 
+ 
+A)
+ 
+Chamada de Procedimento Remoto (RPC). 
+ 
+B)
+ 
+Protocolo Universal de Datagramas (UDP).
+ 
+C)
+ 
+Protocolo de Transporte em Tempo Real (RTP).
+ 
+D)
+ 
+Middleware O
+rientado a Mensagem (MOM).
+ 
+E)
+ 
+Linguagem de Programação de Interface (IDL).
+ 
+ 
+ 
+QUESTÃO
+ 
+65
+ 
+
+ 
+Qual protocolo que converte nome em string ASCII em endereço de rede?
+ 
+ 
+A)
+ 
+Stringle
+.
+ 
+B)
+ 
+DNS
+.
+ 
+C)
+ 
+ARP
+.
+ 
+D)
+ 
+IP
+.
+ 
+E)
+ 
+TCP
+.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+471_POSCOMP_NS_
+16/8/2018
+16:31:21
+ 
+Execução: Fundatec
+ 
+ 
+ 
+EXAME POSCOMP 2018
+ 
+QUESTÃO
+ 
+66
+ 
+
+ 
+O
+ 
+aprendizado de máquina
+,
+ 
+é 
+um campo de estudo que
+:
+ 
+ 
+A)
+ 
+O
+ferece aos computadores a habilidade de aprender exatamente a função para a qual foram 
+programados.
+ 
+B)
+ 
+D
+á aos computadores a habilidade de aprender qualquer problema.
+ 
+C)
+ 
+D
+á aos computadores a habilidade de aprender como um agente deve agir em um ambiente.
+ 
+D)
+ 
+D
+á
+ 
+aos computadores a habilidade de aprender como reduzir erros.
+ 
+E)
+ 
+D
+á aos computadores a habilidade de aprender sem serem explicitamente programados para a 
+tarefa.
+ 
+ 
+ 
+QUESTÃO
+ 
+67
+ 
+
+ 
+Qual é a classe de algoritmos de sincronização que assegura que, em um conjunto 
+d
+e processos distribuídos, pelo menos, um processo por vez tem acesso a um recurso 
+compartilhado?
+ 
+ 
+A)
+ 
+R
+elógios vetoriais
+.
+ 
+B)
+ 
+E
+leição
+.
+ 
+C)
+ 
+E
+xclusão mútua distribuída
+.
+ 
+D)
+ 
+R
+elógios lógicos
+.
+ 
+E)
+ 
+P
+osicionamento global
+.
+ 
+ 
+ 
+QUESTÃO
+ 
+68
+ 
+
+ 
+A fase de análise sintática de um compilador 
+pode ser implementada através de 
+reconhecedores (
+parsers
+) de gramáticas livres de contexto, com estratégias ascendentes (
+bottom
+-
+up
+) ou descendentes (
+top
+-
+down
+). Consider
+e
+ 
+a gramática com cinco produções abaixo, sendo que 
+são não
+ 
+terminais os símbolos S e A,
+ 
+sendo o primeiro o símbolo não 
+terminal inicial da gramática, 
+e
+,
+ 
+os demais
+,
+ 
+símbolos terminais:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Analise
+ 
+as seguintes
+ 
+assertivas
+:
+ 
+ 
+I.
+ 
+A gramática é reconhecida por um analisador preditivo LL(1)
+,
+ 
+pois as características da 
+gramática não inibem a constr
+ução da tabela de reconhecimento.
+ 
+II.
+ 
+Esta gramática não é reconhecida por um analisador LR(0)
+,
+ 
+pois existe um conflito do tipo 
+empilha
+-
+
+-
+
+
+ 
+
+ 
+III.
+ 
+A gramática é reconhecida por uma analisador SLR(1)
+,
+ 
+pois ele resolve o conflito do tipo 
+empilha
+-
+reduz LR(0).
+ 
+IV.
+ 
+A gramática é LR(1).
+ 
+ 
+Quais estão corretas?
+ 
+ 
+A)
+ 
+Apenas I.
+ 
+B)
+ 
+Apenas II.
+ 
+C)
+ 
+Apenas II e III.
+ 
+D)
+ 
+Apenas II e IV.
+ 
+E)
+ 
+I, II, III e
+ 
+IV.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+471_POSCOMP_NS_
+16/8/2018
+16:31:21
+ 
+Execução: Fundatec
+ 
+ 
+ 
+EXAME POSCOMP 2018
+ 
+QUESTÃO
+ 
+69
+ 
+
+ 
+Árv
+ores de decisão são algoritmos que
+ 
+utilizam
+:
+ 
+ 
+A)
+ 
+E
+struturas de 
+IF
+-
+ELSE
+ 
+para realizar aprendizado.
+ 
+B)
+ 
+E
+struturas de repetição alinhadas para realizar aprendizado.
+ 
+C)
+ 
+A
+prendizado estatístico para construção de regras no aprendizado.
+ 
+D)
+ 
+E
+xclusivamente funções matemáticas
+ 
+como estru
+turas de dados elementares para
+ 
+realizar 
+aprendizado
+.
+ 
+E)
+ 
+P
+aradigma de programação em lógica para realizar aprendizado.
+ 
+ 
+ 
+QUESTÃO
+ 
+70
+ 
+
+ 
+Considere as a
+sser
+tivas abaixo sobre teste de sistema:
+ 
+ 
+
+ 
+O t
+este de ______________ tem por objetivo fazer o softwar
+e falhar de diferentes maneiras, a 
+fim de verificar a capacidade 
+de 
+recuperação do software a um estado normal de funcionamento.
+ 
+
+ 
+O t
+este de ______________ exercita o sistema de forma a observar seu desempenho em 
+situações de demanda anormal de recursos, qu
+er em termos de quantidade, frequência ou 
+volume.
+ 
+
+ 
+O t
+este ___________ exercita o software em cada ambiente ou plataforma no qual deve 
+funcionar. Também pode incluir examinar os procedimentos de instalação, softwares para a 
+instalação (e.g. instaladores), e
+ 
+a documentação usada para apresentar o software ao usuário.
+ 
+ 
+Assinale a alternativa que preenche, correta e respectivamente, as lacunas das a
+sser
+tivas acima.
+ 
+ 
+A)
+ 
+recuperação 
+
+ 
+stress 
+
+ 
+de implantação
+ 
+B)
+ 
+segurança 
+
+ 
+stress 
+
+ 
+beta
+ 
+C)
+ 
+recuperação 
+
+ 
+carga 
+
+ 
+de implant
+ação
+ 
+D)
+ 
+segurança 
+
+ 
+carga 
+
+ 
+de implantação
+ 
+E)
+ 
+recuperação 
+
+ 
+stress 
+
+ 
+beta
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
