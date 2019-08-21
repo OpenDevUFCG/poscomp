@@ -6,7 +6,7 @@ import PageContent from './content/PageContent';
 
 const App = () => {
   return (
-    <div className="App fill-container" >
+    <div className="App fill-container">
       <PageSideNav />
       <PageContent />
     </div>

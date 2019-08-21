@@ -5,12 +5,14 @@
   "dependencies": {
     "katex": "^0.10.2",
     "path": "^0.12.7",
+    "prettier": "^1.18.2",
     "prop-types": "^15.7.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1"
   },
   "scripts": {
+    "prettier": "prettier --write \"**/*.js\"",
     "lint": "eslint .",
     "start": "react-scripts start",
     "build": "react-scripts build",
