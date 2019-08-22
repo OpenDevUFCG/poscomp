@@ -1,0 +1,18 @@
+{
+    "ano": "2018",
+    "questao": "11",
+    "area": "Matemática",
+    "enunciado": "Considere a proposição abaixo:\n\n“Em toda turma da minha universidade, existe pelo menos um aluno canhoto.”\n\nA negação da proposição acima é logicamente equivalente à proposição:",
+    "img_url": [],
+    "alternativas": {
+        "A": "Existe uma turma na minha universidade na qual há, no máximo, um aluno canhoto.", 
+        "B": "Há, pelo menos, uma turma da minha universidade na qual não existe aluno canhoto.", 
+        "C": "Não há turma na minha universidade na qual todos os alunos sejam canhotos.", 
+        "D": "Em cada uma das turmas da minha universidade, não há aluno algum que seja canhoto.", 
+        "E": "Em nenhuma turma da minha universidade, há algum aluno que seja canhoto."
+    },
+    "resposta": "B",
+    "autor": [],
+    "temas": [],
+    "justificativa": ""
+}
