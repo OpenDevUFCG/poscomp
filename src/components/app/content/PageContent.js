@@ -6,7 +6,7 @@ import MainField from './main/MainField';
 
 const PageContent = () => {
   return (
-    <section className="PageContent" >
+    <section className="PageContent">
       <PageHeader />
       <MainField />
     </section>
