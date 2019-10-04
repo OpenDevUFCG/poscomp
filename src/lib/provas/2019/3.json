@@ -1,0 +1,18 @@
+{
+    "ano": "2019",
+    "questao": "3",
+    "area": "Matemática",
+    "enunciado": "Encontre a equação da reta s, que passa pelo ponto A(3, 4) e que é perpendicular à reta r: x + y - 5 = 0.",
+    "img_url": [],
+    "alternativas": {
+        "A": "r: 5x - 2y + 2 = 0", 
+        "B": "r: x + y + 4 = 0", 
+        "C": "r: 2x + y = 0", 
+        "D": "r: x - y + 1 = 0", 
+        "E": "r: x - 3y + 2 = 0"
+    },
+    "resposta": "",
+    "autor": [],
+    "temas": [],
+    "justificativa": ""
+}
