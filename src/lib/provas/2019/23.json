@@ -1,0 +1,18 @@
+{
+    "ano": "2019",
+    "questao": "23",
+    "area": "Fundamentos",
+    "enunciado": "Sobre árvores, é correto afirmar que: ",
+    "img_url": [],
+    "alternativas": {
+        "A": "Um nodo é interno se não tiver filhos e é externo se tiver um ou mais filhos.", 
+        "B": "O ancestral de um nodo pode ser tanto seu ancestral direto como um ancestral do pai do nodo.", 
+        "C": "Uma árvore é balanceada se existe uma ordem linear definida para cada nodo, isto é, podemos \nidentificar o filho de um nodo como sendo o primeiro, segundo e assim por diante.", 
+        "D": "Uma árvore binária é dita própria se todo nodo interno tiver um ou zero filhos.", 
+        "E": "Se o nodo v é pai do nodo u, então dizemos que v é filho de u."
+    },
+    "resposta": "",
+    "autor": [],
+    "temas": [],
+    "justificativa": ""
+}

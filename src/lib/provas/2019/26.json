@@ -1,0 +1,18 @@
+{
+    "ano": "2019",
+    "questao": "26",
+    "area": "Fundamentos",
+    "enunciado": " Sobre listas, analise as assertivas abaixo: \n\nI. Objetos podem ser inseridos em uma pilha a qualquer momento, mas apenas o que foi inserido \nmais recentemente (isto é, o último) pode ser removido a qualquer momento. \nII. Em uma fila, os elementos podem ser inseridos a qualquer momento, mas apenas o elemento que \nestá a mais tempo na fila pode ser removido. \nIII. Em uma fila, os elementos são inseridos e removidos de acordo com o princípio “o último que \nentra é o primeiro que sai”. \n\nQuais estão corretas?",
+    "img_url": [],
+    "alternativas": {
+        "A": "Apenas I.", 
+        "B": "Apenas II.", 
+        "C": "Apenas III.", 
+        "D": "Apenas I e II.", 
+        "E": "I, II e III."
+    },
+    "resposta": "",
+    "autor": [],
+    "temas": [],
+    "justificativa": ""
+}
