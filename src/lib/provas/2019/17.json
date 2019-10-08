@@ -2,7 +2,7 @@
     "ano": "2019",
     "questao": "17",
     "area": "Matemática",
-    "enunciado": "Uma pessoa deseja fazer uma compra na Internet e, para isso, precisa se cadastrar \nem um site. A senha de cadastro deve ser formada por exatamente 9 caracteres, e somente os \ncaracteres $, @ e # podem ser usados. Quantas senhas diferentes, contendo pelo menos uma \nocorrência de cada caractere, existem?",
+    "enunciado": "Uma pessoa deseja fazer uma compra na Internet e, para isso, precisa se cadastrar em um site. A senha de cadastro deve ser formada por exatamente 9 caracteres, e somente os \ncaracteres $, @ e # podem ser usados. Quantas senhas diferentes, contendo pelo menos uma ocorrência de cada caractere, existem?",
     "img_url": [],
     "alternativas": {
         "A": "729.", 
