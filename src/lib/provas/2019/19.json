@@ -2,7 +2,7 @@
     "ano": "2019",
     "questao": "19",
     "area": "Matemática",
-    "enunciado": "– De quantas maneiras diferentes é possível formar uma equipe de ginástica olímpica \ncom precisamente 3 ginastas mulheres e 4 ginastas homens, escolhidos a partir de uma delegação \ncom 15 pessoas, das quais 8 são homens e 7 são mulheres?",
+    "enunciado": "De quantas maneiras diferentes é possível formar uma equipe de ginástica olímpica \ncom precisamente 3 ginastas mulheres e 4 ginastas homens, escolhidos a partir de uma delegação \ncom 15 pessoas, das quais 8 são homens e 7 são mulheres?",
     "img_url": [],
     "alternativas": {
         "A": "91.", 
