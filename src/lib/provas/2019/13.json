@@ -1,0 +1,18 @@
+{
+    "ano": "2019",
+    "questao": "13",
+    "area": "Matemática",
+    "enunciado": "Considere a seguinte proposição:\nEm todos os cursos de Computação, existe, pelo menos, uma disciplina de Lógica.\nA negação da proposição acima é logicamente equivalente à proposição:",
+    "img_url": [],
+    "alternativas": {
+        "A": "Em nenhum curso de Computação, há alguma disciplina de Lógica.", 
+        "B": "Há, pelo menos, um curso de Computação no qual não há disciplina de Lógica.", 
+        "C": "Em cada um dos cursos de Computação, não há disciplina de Lógica.", 
+        "D": "Não há curso de Computação no qual tenha disciplina de Lógica.", 
+        "E": "Há um curso de Computação no qual há, no máximo, uma disciplina de Lógica."
+    },
+    "resposta": "",
+    "autor": [],
+    "temas": [],
+    "justificativa": ""
+}
