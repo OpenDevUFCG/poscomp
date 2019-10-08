@@ -1,0 +1,18 @@
+{
+    "ano": "2019",
+    "questao": "16",
+    "area": "Matemática",
+    "enunciado": "O número hexadecimal BEEF em base 2 é:",
+    "img_url": [],
+    "alternativas": {
+        "A": "1010 1111 1111 1110", 
+        "B": "1011 1110 1110 1111", 
+        "C": "0010 0011 0011 0100", 
+        "D": "1000 0101 0101 0100", 
+        "E": "1001 1100 1100 1101"
+    },
+    "resposta": "",
+    "autor": [],
+    "temas": [],
+    "justificativa": ""
+}

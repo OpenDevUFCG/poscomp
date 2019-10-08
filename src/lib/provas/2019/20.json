@@ -1,0 +1,18 @@
+{
+    "ano": "2019",
+    "questao": "20",
+    "area": "Matemática",
+    "enunciado": "Um avião tem três computadores idênticos, e utiliza-se apenas um para operá-lo, os dois restantes são de reposição que podem se ativar caso o sistema principal falhe. Durante uma hora de operação, a probabilidade de falha do computador principal (ou de qualquer sistema de reposição ativado) é de 0,0005. Supondo que cada hora representa um teste independente, qual é o tempo médio para que ocorram falhas nos três computadores?",
+    "img_url": [],
+    "alternativas": {
+        "A": "200 horas.", 
+        "B": "1000 horas.", 
+        "C": "2000 horas.", 
+        "D": "3000 horas.", 
+        "E": "6000 horas."
+    },
+    "resposta": "",
+    "autor": [],
+    "temas": [],
+    "justificativa": ""
+}
