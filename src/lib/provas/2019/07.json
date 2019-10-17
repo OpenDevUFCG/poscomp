@@ -1,0 +1,18 @@
+{
+    "ano": "2019",
+    "questao": "7",
+    "area": "Matemática",
+    "enunciado": "Determinea matriz inversa de $A=\\begin{pmatrix}1 & 2 & 2\\\\ 2 & 1 & 2\\\\ 2 & 2 & 1 \\end{pmatrix}$.",
+    "img_url": [],
+    "alternativas": {
+        "A": "$A^{-1}=\\frac{1}{5}\\begin{pmatrix}1 & 7 & -1\\\\ 7 & 1 & 1\\\\ 1 & 3 & 1 \\end{pmatrix}$", 
+        "B": "$A^{-1}=\\frac{1}{5}\\begin{pmatrix}1 & 0 & -2\\\\ 5 & 1 & 0\\\\ 0 & 1 & 1 \\end{pmatrix}$", 
+        "C": "$A^{-1}=\\frac{5}{1}\\begin{pmatrix}0 & -1 & 1\\\\ -7 & 3 & 4\\\\ 7 & 1 & -1 \\end{pmatrix}$", 
+        "D": "$A^{-1}=\\frac{1}{5}\\begin{pmatrix}-3 & 2 & 2\\\\ 2 & -3 & 2\\\\ 2 & 2 & -3 \\end{pmatrix}$", 
+        "E": "A^{-1}=\\frac{1}{3}\\begin{pmatrix}1 & 3 & -3\\\\ 5 & 3 & 1\\\\ 1 & 3 & -3 \\end{pmatrix}"
+    },
+    "resposta": "D",
+    "autor": [],
+    "temas": [],
+    "justificativa": ""
+}
