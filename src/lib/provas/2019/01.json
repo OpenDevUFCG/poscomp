@@ -2,7 +2,7 @@
     "ano": "2019",
     "questao": "1",
     "area": "Matemática",
-    "enunciado": "Seja uma matriz quadrada de terceira ordem $ A=\\begin{pmatrix} 2&2&5 \\ 7&11&13 \\17&19&23 \\end{pmatrix} $, calcule o determinante:",
+    "enunciado": "Seja uma matriz quadrada de terceira ordem $A=\\begin{pmatrix} 2&2&5 \\\\ 7&11&13 \\\\ 17&19&23 \\end{pmatrix}$, calcule o determinante:",
     "img_url": [],
     "alternativas": {
         "A": "Det A = -78", 

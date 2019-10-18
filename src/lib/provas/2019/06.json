@@ -2,7 +2,7 @@
     "ano": "2019",
     "questao": "6",
     "area": "Matemática",
-    "enunciado": "Para quais valores de $a$ e $b$, $f(x)$ é contínua em $x = 1$ e $x = 4$.\n\t $f(x) = \\left\\{\begin{matrix}x & se\\,x \\leq 1\\ ax + b & se\\, 1 < x <4\\-2x& se\\, 4 \\leq x\\end{matrix}\\right$",
+    "enunciado": "Para quais valores de $a$ e $b$, $f(x)$ é contínua em $x = 1$ e $x = 4$. \n\t$f(x) = \\begin{cases}x & se,x \\leq 1 \\\\ ax + b & se 1 < x < 4 \\\\ -2x& se, 4 \\leq x \\end{cases}$",
     "img_url": [],
     "alternativas": {
         "A": "a = -9 e b = -3", 
