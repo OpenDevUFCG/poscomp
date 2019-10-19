@@ -1,6 +1,6 @@
 # Compreendendo os JSONs das Questões
 
-Para armazenar os dados das questões da POSCOMP neste repositório são utilizados arquivos `.json`. Para cada questão, deve existir um arquivo (único) cuja estrutura está apresentada abaixo.
+Para armazenar os dados das questões da POSCOMP, neste repositório são utilizados arquivos `.json`. Para cada questão, deve existir um arquivo (único) cuja estrutura está apresentada abaixo.
 
 ```json
 {
@@ -23,11 +23,11 @@ Para armazenar os dados das questões da POSCOMP neste repositório são utiliza
 }
 ```
 
-Esse arquivo deve ser nomeado com o número da questão e estar em um diretório nomeado com o ano de realização da prova em que a questão esteve presente. Por sua vez, esse diretório deve estar inserido em ***poscomp/src/lib/provas/***.
+Esse arquivo deverá ser nomeado com o número da questão e estar em um diretório nomeado com o ano de realização da prova em que ela esteve presente. Por sua vez, esse diretório deverá estar inserido em ***poscomp/src/lib/provas/***.
 
 Portanto, para a décima questão da prova da POSCOMP de 2016, teríamos `poscomp/src/lib/provas/2016/10.json`. 
 
-> **Lembrete:** Ao contribuir com uma solução justificada, as informações do autor da justificativa devem estar presentes no JSON de autores. Se não estão, adicione-as!
+> **Lembrete:** Ao contribuir com uma solução justificada, as informações do autor da justificativa deverão estar presentes no JSON de autores. Caso não estejam, adicione-as!
 
 ## Estrutura do JSON
 
@@ -64,7 +64,7 @@ Para garantir que você preencha corretamente os JSONs, vamos nos aprofundar um 
 
 - Se a questão ainda não possui justificativa, mantenha os valores de `autor` e `temas` como *arrays* vazios.
 
-- Se essa será sua primeira contribuição, leia também esse [documento](./AUTOR.md).
+- Se essa será sua primeira contribuição, leia também este [documento](./AUTOR.md).
 
 ## Exemplos
 
