@@ -32,4 +32,4 @@ Se aplicável, adicione capturas de tela para ajudar na descrição do problema
  - Versão: [e.g. 22]
 
 **Contexto adicional**
-Adicione qualquer outro contexto ao problema reportado aqui
+Adicione qualquer outro contexto ao problema aqui reportado

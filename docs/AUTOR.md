@@ -1,6 +1,6 @@
 # Compreendendo o JSON dos Autores
 
-Para armazenar os dados dos autores das soluções justificadas de questões da POSCOMP neste repositório são utilizados arquivos `.json`.  Todas as informações são armazenadas em um único arquivo, cuja estrutura está apresentada abaixo.
+Para armazenar os dados dos autores das soluções justificadas de questões da POSCOMP, neste repositório são utilizados arquivos `.json`.  Todas as informações são armazenadas em um único arquivo, cuja estrutura está apresentada abaixo.
 
 ```json
 {
@@ -35,9 +35,9 @@ Para garantir que você preencha corretamente o JSON, vamos nos aprofundar um po
 
 | Chave | Descrição | Valor |
 | :--: | :--: | :--: |
-| `nome` | O nome completo do autor de soluções justificadas de questões. | String |
-| `email` | O e-mail para contato do autor de soluções justificadas de questões. | String |
-| `github` | O *username* do autor de soluções justificadas de questões. | String |
+| `nome` | O nome completo do autor das soluções justificadas de questões. | String |
+| `email` | O e-mail para contato do autor das soluções justificadas de questões. | String |
+| `github` | O *username* do autor das soluções justificadas de questões. | String |
 
 ### Observações
 
@@ -45,9 +45,9 @@ Para garantir que você preencha corretamente o JSON, vamos nos aprofundar um po
 
 - Mesmo que um autor contribua com soluções justificadas de várias questões, deve existir apenas um objeto com suas informações no JSON.
 
-- Note que cada objeto com as informações do autor é o valor respectivo a uma chave única. Fique atento para respeitar a sequência pré-existente, pois esses IDs são utilizados para associação entre autores e suas soluções.
+- Note que cada objeto com as informações do autor tem o valor respectivo de uma chave única. Fique atento para respeitar a sequência pré-existente, pois esses IDs são utilizados para associação entre autores e suas soluções.
 
-- Se essa será sua primeira contribuição, leia também esse [documento](./QUESTAO.md).
+- Se essa será sua primeira contribuição, leia também este [documento](./QUESTAO.md).
 
 ### Exemplos
 
