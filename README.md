@@ -18,7 +18,8 @@ Assim, o Poscomp estará disponível em http://localhost:3000/.
 
 Caso você deseje adicionar/editar as soluções ou contribuir de outra maneira conosco, leia o [CONTRIBUTING.md](CONTRIBUTING.md).
 
-Sinta-se livre para reportar erros, tirar dúvidas, dar sugestões e mandar mensagens bonitinhas pra gente nas *issues*. :heart: E não esquece de entrar em nosso *channel* no [Discord](https://discordapp.com/invite/vFFGGEE) pra conversar com a gente!
+Sinta-se livre para reportar erros, tirar dúvidas, dar sugestões e mandar mensagens bonitinhas pra gente nas *issues*. :heart:
+E não esqueça de entrar em nosso *channel* no [Discord](https://discordapp.com/invite/vFFGGEE) pra conversar conosco!
 
 ## Conheça nossos contribuidores!
 
