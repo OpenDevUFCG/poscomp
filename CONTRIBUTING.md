@@ -4,7 +4,8 @@ Contribuições sempre serão bem-vindas, sejam pequenas ou grandes. Abaixo, con
 
 ## Tipos de Contribuição
 
-### Resolvendo Issues
+### Resolvendo *
+s*
 
 As *issues* são um espaço aberto para requisitar criação, mudança ou conserto de material. Também podem ser usadas como um espaço de discussão, mas tenha em mente que o tema sempre deve estar relacionado ao projeto.
 
