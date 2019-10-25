@@ -2,7 +2,7 @@
     "ano": "2019",
     "questao": "37",
     "area": "Fundamentos",
-    "enunciado": "Dado um grafo G e um vértice de origem, qual é o algoritmo de busca que descobre \ntodos os vértices a uma distância K do vértice origem, antes de descobrir qualquer vértice a uma \ndistância K+1? ",
+    "enunciado": "Dado um grafo G e um vértice de origem, qual é o algoritmo de busca que descobre todos os vértices a uma distância K do vértice origem, antes de descobrir qualquer vértice a uma distância K+1? ",
     "img_url": [],
     "alternativas": {
         "A": "Pré-ordem.", 

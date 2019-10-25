@@ -2,7 +2,7 @@
     "ano": "2019",
     "questao": "36",
     "area": "Fundamentos",
-    "enunciado": "Um mapa rodoviário é modelado como um grafo em que os vértices representam \ninterseções. As arestas representam segmentos de estrada entre interseções. O peso de cada aresta \nrepresenta a distância entre interseções. Agora, considere que um motorista deseja obter o caminho \nmais curto entre duas cidades. Dado um mapa contendo as distâncias entre cada par de interseções \nadjacentes, como obter o caminho mais curto entre duas cidades?",
+    "enunciado": "Um mapa rodoviário é modelado como um grafo em que os vértices representam interseções. As arestas representam segmentos de estrada entre interseções. O peso de cada aresta representa a distância entre interseções. Agora, considere que um motorista deseja obter o caminho mais curto entre duas cidades. Dado um mapa contendo as distâncias entre cada par de interseções adjacentes, como obter o caminho mais curto entre duas cidades?",
     "img_url": [],
     "alternativas": {
         "A": "Caminho mais curto com destino único.", 

@@ -2,7 +2,7 @@
     "ano": "2018",
     "questao": "34",
     "area": "Fundamentos da Computação",
-    "enunciado": "Quanto aos métodos de alocação de espaço em disco para arquivos, analise as afirmações abaixo e assinale V, se verdadeiras, ou F, se falsas.\n\n( ) Na alocação contígua, a alocação de espaço em disco para novos arquivos pode ser dificultada pelo problema de fragmentação externa.\n( ) A alocação interligada provê acesso eficiente tanto a arquivos de acesso sequencial quanto de acesso direto.\n( ) Na alocação indexada, cada arquivo possui um bloco de índice. Para arquivos grandes, são necessários mecanismos que vinculem diferentes blocos de índices, como índices multinível, por exemplo.\n\nA ordem correta de preenchimento dos parênteses, de cima para baixo, é:",
+    "enunciado": "Quanto aos métodos de alocação de espaço em disco para arquivos, analise as afirmações abaixo e assinale V, se verdadeiras, ou F, se falsas. ( ) Na alocação contígua, a alocação de espaço em disco para novos arquivos pode ser dificultada pelo problema de fragmentação externa. ( ) A alocação interligada provê acesso eficiente tanto a arquivos de acesso sequencial quanto de acesso direto. ( ) Na alocação indexada, cada arquivo possui um bloco de índice. Para arquivos grandes, são necessários mecanismos que vinculem diferentes blocos de índices, como índices multinível, por exemplo. A ordem correta de preenchimento dos parênteses, de cima para baixo, é:",
     "img_url": [],
     "alternativas": {
         "A": "V – V – F.", 

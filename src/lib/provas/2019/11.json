@@ -2,7 +2,7 @@
     "ano": "2019",
     "questao": "11",
     "area": "Matemática",
-    "enunciado": "Considere as premissas a seguir verdadeiras:\nPremissa 1: Se Daenerys come churrasco ou João anda a cavalo, então Cersei assiste a um filme.\nPremissa 2: Hoje, Cersei não assistiu a um filme.\nPremissa 3: Se hoje, é domingo, então Daenerys come churrasco e Jaime treina esgrima.\nPremissa 4: Hoje, Jaime foi treinar esgrima.\n\nÉ correto concluir que:",
+    "enunciado": "Considere as premissas a seguir verdadeiras: Premissa 1: Se Daenerys come churrasco ou João anda a cavalo, então Cersei assiste a um filme. Premissa 2: Hoje, Cersei não assistiu a um filme. Premissa 3: Se hoje, é domingo, então Daenerys come churrasco e Jaime treina esgrima. Premissa 4: Hoje, Jaime foi treinar esgrima. É correto concluir que:",
     "img_url": [],
     "alternativas": {
         "A": "Hoje é domingo e Daenerys comeu churrasco.", 

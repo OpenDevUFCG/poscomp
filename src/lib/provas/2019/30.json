@@ -2,7 +2,7 @@
     "ano": "2018",
     "questao": "1",
     "area": "Matemática",
-    "enunciado": "Considere as afirmações abaixo sobre comandos em linguagens de programação:\n\nI. Uma declaração de variável associa um nome a um valor que, geralmente, não pode ser alterado \ndurante a execução do programa.\nII. I. Expressões aritméticas são expressões cujos resultados são valores numéricos, inteiros ou \nfracionários. \nIII. Expressões lógicas são aquelas que têm como resultado um dos dois valores, verdadeiro ou falso.\n\nQuais estão corretas?",
+    "enunciado": "Considere as afirmações abaixo sobre comandos em linguagens de programação: I. Uma declaração de variável associa um nome a um valor que, geralmente, não pode ser alterado durante a execução do programa. II. Expressões aritméticas são expressões cujos resultados são valores numéricos, inteiros ou fracionários. III. Expressões lógicas são aquelas que têm como resultado um dos dois valores, verdadeiro ou falso. Quais estão corretas?",
     "img_url": [],
     "alternativas": {
         "A": "Apenas I.", 
