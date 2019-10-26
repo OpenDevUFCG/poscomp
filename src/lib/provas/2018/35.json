@@ -13,6 +13,6 @@
     },
     "resposta": "E",
     "autor": ["2"],
-    "temas": ["Algoritmos e estruturas de dados"],
+    "temas": ["Estruturas de dados"],
     "justificativa": "Uma árvore B+ é uma estrutura de dados do tipo árvore que deriva das árvores B, mas utiliza uma forma diferente para armazenar suas chaves. Para manter o acesso sequencial, cada nó folha possui um ponteiro para o nó folha que o sucede na sequência de chaves. As chaves encontram-se ordenadas em todos os nós e podem existir valores que se repetirão entre um nó folha e um nó interno.\nNesse sentido, a primeira e a última afirmação são verdadeiras. No entanto, a segunda afirmação está incorreta, pois nem todos os nós possuem ponteiros para seus sucessores, isso é válido apenas para os nós folha da árvore B+. Logo, a alternativa E é a correta."
 }
