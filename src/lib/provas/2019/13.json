@@ -2,7 +2,7 @@
     "ano": "2019",
     "questao": "13",
     "area": "Matemática",
-    "enunciado": "Considere a seguinte proposição:\nEm todos os cursos de Computação, existe, pelo menos, uma disciplina de Lógica.\nA negação da proposição acima é logicamente equivalente à proposição:",
+    "enunciado": "Considere a seguinte proposição: Em todos os cursos de Computação, existe, pelo menos, uma disciplina de Lógica. A negação da proposição acima é logicamente equivalente à proposição:",
     "img_url": [],
     "alternativas": {
         "A": "Em nenhum curso de Computação, há alguma disciplina de Lógica.", 

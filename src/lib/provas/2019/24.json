@@ -1,0 +1,18 @@
+{
+    "ano": "2019",
+    "questao": "24",
+    "area": "Fundamentos",
+    "enunciado": "Um procedimento recursivo é aquele que contém em sua descrição: ",
+    "img_url": [],
+    "alternativas": {
+        "A": "Uma prova de indução matemática.", 
+        "B": "Duas ou mais chamadas a procedimentos externos.", 
+        "C": "Uma ou mais chamadas a si mesmo.", 
+        "D": "Somente chamadas externas.", 
+        "E": "Uma ou mais chamadas a procedimentos internos."
+    },
+    "resposta": "",
+    "autor": [],
+    "temas": [],
+    "justificativa": ""
+}
