@@ -1,0 +1,18 @@
+{
+    "ano": "2018",
+    "questao": "13",
+    "area": "Matemática",
+    "enunciado": "Um motoqueiro possui “n” entregas para realizar em “n” pontos distintos de uma cidade, podendo fazer a entrega em qualquer ordem. O entregador dispõe de uma tabela de distâncias que informa o tempo exato para se locomover de moto entre cada par de pontos de entrega. Considere distâncias assimétricas, ou seja, dist(a,b) e dist(b,a) podem ser diferentes. Se o entregador resolver avaliar todas as possíveis soluções para escolher a sequência de entregas cuja distância a ser percorrida seja mínima, quantas rotas ele iria avaliar para n=5? Resolva o problema ignorando a distância que seria gasta para o entregador se locomover até o primeiro ponto de entrega.",
+    "img_url": [],
+    "alternativas": {
+        "A": "5", 
+        "B": "25", 
+        "C": "60", 
+        "D": "120", 
+        "E": "240"
+    },
+    "resposta": "D",
+    "autor": [],
+    "temas": ["Análise combinatória"],
+    "justificativa": ""
+}

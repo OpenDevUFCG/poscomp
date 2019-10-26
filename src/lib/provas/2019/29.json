@@ -1,0 +1,18 @@
+{
+    "ano": "2019",
+    "questao": "29",
+    "area": "Fundamentos",
+    "enunciado": "Em um sistema de arquivos, é necessário gerenciar blocos de discos que estão livres, para que possam ser alocados a arquivos e/ou diretórios de que necessitem. Analise as técnicas abaixo: I. Vetor de bits, no qual cada bloco é representado por um bit. II. Lista encadeada, na qual um ponteiro mantido em memória corresponde ao endereço do primeiro bloco livre, e cada bloco contém um apontador para o próximo bloco livre. III. Lista de contadores, em que cada elemento da lista contém um endereço de bloco e um contador representando o número de blocos contíguos a este que estão livres. Quais implementam a gerência de espaço livre em disco?",
+    "img_url": [],
+    "alternativas": {
+        "A": "Apenas I.", 
+        "B": "Apenas II.", 
+        "C": "Apenas III.", 
+        "D": "Apenas I e II.", 
+        "E": "I, II e III."
+    },
+    "resposta": "",
+    "autor": [],
+    "temas": ["Sistemas operacionais"],
+    "justificativa": ""
+}
