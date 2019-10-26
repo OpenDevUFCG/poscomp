@@ -5,7 +5,7 @@ A prova da poscomp trata os temas diferente dos nomes da disciplinas da UFCG, de
 ### Disciplinas obrigatórias
 
 | UFCG                  | Poscomp                                            |
-------------------------------------------------------------------------------
+|-----------------------|----------------------------------------------------|
 | Programação 1         | Linguagens de programação                          |
 | IC                    | Matemática discreta, Circuitos digitais            |
 | FMCC 1                |                                                    |   
@@ -35,6 +35,6 @@ A prova da poscomp trata os temas diferente dos nomes da disciplinas da UFCG, de
 ### Disciplinas optativas
 
 | UFCG                    | Poscomp                                      |
---------------------------------------------------------------------------
+|-------------------------|----------------------------------------------|
 | Visão computacional     | Computação gráfica, Processamento de imagens |
 | Vetorial                | Geometria analítica                          |
