@@ -1,0 +1,18 @@
+{
+    "ano": "2019",
+    "questao": "4",
+    "area": "Matemática",
+    "enunciado": "Encontre as coordenadas do centro (C) da circunferência de equação $ t: x^{2} + y^{2} - 3x + 5y - 14 = 0 $.",
+    "img_url": [],
+    "alternativas": {
+        "A": "$ C(\\frac{1}{2}, \\frac{1}{2}) $", 
+        "B": "$ C(\\frac{-1}{2}, \\frac{3}{2}) $", 
+        "C": "$ C(\\frac{3}{2}, \\frac{1}{2}) $", 
+        "D": "$ C(\\frac{5}{2}, \\frac{5}{2}) $", 
+        "E": "$ C(\\frac{3}{2}, \\frac{-5}{2}) $"
+    },
+    "resposta": "E",
+    "autor": [],
+    "temas": [],
+    "justificativa": ""
+}

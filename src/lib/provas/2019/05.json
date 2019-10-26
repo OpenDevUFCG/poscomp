@@ -1,0 +1,18 @@
+{
+    "ano": "2019",
+    "questao": "5",
+    "area": "Matemática",
+    "enunciado": "Calcule o $ \\underset{x \\to 2}{lim}\\,\\frac{x^{3} - 8}{6x^{2} - 3x^{3}} $:",
+    "img_url": [],
+    "alternativas": {
+        "A": "-2", 
+        "B": "$ \\infty $", 
+        "C": "0", 
+        "D": "1", 
+        "E": "-1"
+    },
+    "resposta": "E",
+    "autor": [],
+    "temas": [],
+    "justificativa": ""
+}

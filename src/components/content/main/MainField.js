@@ -1,12 +1,12 @@
 import React from 'react';
 import './MainField.css';
 
-import KatexRender from '../../render/KatexRender';
+import KatexParser from '../../render/KatexParser';
 
-const stringLatex = `\\begin{pmatrix}\n
+const stringLatex = `Seja a matrix $A=\\begin{pmatrix}\n
       a & b \\\\\n
       c & d\n
-      \\end{pmatrix}\n`;
+      \\end{pmatrix}\n$, determine sua inversa.`;
 // Obter strings para o renderizado de LaTeX aqui.
 
 const MainField = () => {
@@ -44,7 +44,7 @@ const MainField = () => {
       <br />
 
       {/* Renderizador de LaTeX funcionando. */}
-      <KatexRender string={stringLatex} />
+      <KatexParser string={stringLatex} />
     </article>
   );
 };
