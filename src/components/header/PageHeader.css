@@ -1,4 +1,6 @@
 .page-header {
+  display: grid;
+  grid-auto-flow: column;
 }
 
 @media (min-width: 801px) {
