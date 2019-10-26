@@ -7,10 +7,7 @@ const PageHeader = ({ drawerClickHandler }) => {
   return (
     <header className="page-header">
       <ToggleButton className="header-toggle-button" click={drawerClickHandler} />
-      <div className="header-title">
-        <h1>POSCOMP</h1>
-        <p>Lorem ipsum dolor sit amet</p>
-      </div>
+      <h1>SOLUCIONARIO - POSCOMP</h1>
     </header>
   );
 };
