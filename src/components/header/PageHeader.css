@@ -3,6 +3,10 @@
   grid-auto-flow: column;
 }
 
+.page-header__space {
+  grid-row-gap: 1cm;
+}
+
 @media (min-width: 801px) {
   .header-toggle-button {
     display: none;

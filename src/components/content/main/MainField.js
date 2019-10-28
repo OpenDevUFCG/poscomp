@@ -1,8 +1,11 @@
 import React from 'react';
 import './MainField.css';
+import Card from '../../card/Card';
 
 const MainField = () => {
-  return <></>;
+  return (
+     <Card />
+  )
 };
 
 export default MainField;
