@@ -3,7 +3,7 @@
     background: #FFF7F8;
     font-family: 'Ikaros', sans-serif;
     border-radius: 10px;
-    padding: 30px 50px;
+    padding: 40px 310px;
     height: 150px;
     display: grid;
     grid-template-areas:
@@ -16,35 +16,11 @@
   }
   
   .card__container:hover {
-    box-shadow: 0 16px 32px 0 black;
+    box-shadow: 0 16px 32px 0 rgba(0,0,0,0.5);
   }
 
   .card__space {
     padding: 20px 50px;
-  }
-
-  .card__title-1 {
-    grid-area: title;
-    margin: 0;
-    line-height: 1.2em;
-  }
-  
-  .card__subtitle {
-    grid-area: subtitle;
-    font-family: 'Krub', 'sans-serif';
-    font-weight: 500;
-    color: gray;
-    font-style: italic;
-  }
-  
-  .card__title-2 {
-    margin-top: 20px;
-    font-family: 'Ikaros', sans-serif;
-    color: gray;
-  }
-
-  .card__theme {
-    border-radius: 10px;
   }
   
   @media screen and (max-width: 720px) {
@@ -57,9 +33,5 @@
         'subtitle'
         'content-left'
         'content-right';
-    }
-  
-    .card__title-2 {
-      margin-top: 0;
     }
   }
