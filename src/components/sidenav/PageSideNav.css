@@ -14,7 +14,7 @@
   color: #909399;
 }
 
-@media (max-width: 800px) {
+@media screen and (max-width: 1024px) {
   .drawer {
     width: 70%;
     box-shadow: 2px 0 10px rgba(0, 0, 0, 0.3);

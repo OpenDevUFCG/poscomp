@@ -2,9 +2,9 @@
 .card__container {
     background: #FFF7F8;
     font-family: 'Ikaros', sans-serif;
-    border-radius: 10px;
-    padding: 40px 310px;
-    height: 150px;
+    border-radius: 12px;
+    padding: 5% 30%;
+    height: 120px;
     display: grid;
     grid-template-areas:
       'title title'
@@ -23,9 +23,10 @@
     padding: 20px 50px;
   }
   
-  @media screen and (max-width: 720px) {
+  @media screen and (max-width: 1400px) {
     .card__container {
       display: grid;
+      padding: 5% 30%;
       grid-gap: 1em;
       grid-template-columns: 1fr;
       grid-template-areas:
