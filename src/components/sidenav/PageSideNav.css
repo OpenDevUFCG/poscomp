@@ -4,8 +4,8 @@
   /* height: 100%; */
   width: 300px;
   flex-shrink: 0;
-  border-right: 1px solid #ddd;
-  background-color: #fff;
+  border-right: 1px solid #F9DBBD;
+  background-color: #F9DBBD;
   box-sizing: border-box;
 }
 
