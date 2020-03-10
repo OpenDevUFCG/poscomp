@@ -1,0 +1,18 @@
+{
+    "ano": "2018",
+    "questao": "5",
+    "area": "Matemática",
+    "enunciado": "Calcule o limite de $\lim_{x \to \infty }(\sqrt{x^4+x^2} + \sqrt{x^2+5x} - x² - x)$:", 
+    "img_url": [],
+    "alternativas": {
+        "A": "1", 
+        "B": "5", 
+        "C": "∞", 
+        "D": "0", 
+        "E": "3"
+    },
+    "resposta": "E",
+    "autor": [],
+    "temas": ["Limites"],
+    "justificativa": ""
+}
