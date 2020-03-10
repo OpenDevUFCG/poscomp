@@ -1,9 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './components/app/App';
+import { BrowserRouter, Route, Switch } from 'react-router-dom';
+import DefaultLayout from './layouts/default';
 
-ReactDOM.render(<App />, document.getElementById('root'));
-// Descomentar para ativar hot reload
-
-// if (module.hot)
-//   module.hot.accept();
+ReactDOM.render(
+  <BrowserRouter>
+    <Switch>
+      <Route path="/" render={(props) => <DefaultLayout {...props} />} />
+    </Switch>
+  </BrowserRouter>,
+  document.getElementById('root')
+);
