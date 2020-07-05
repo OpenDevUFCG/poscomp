@@ -1,4 +1,4 @@
-# POSCOMP [![Build Status](https://travis-ci.com/OpenDevUFCG/poscomp.svg?branch=master)](https://travis-ci.com/OpenDevUFCG/poscomp) [![chat on Discord](https://img.shields.io/discord/558293573494112257.svg?logo=discord)](https://discordapp.com/invite/vFFGGEE)
+# POSCOMP [![Build Status](https://travis-ci.com/OpenDevUFCG/poscomp.svg?branch=master)](https://travis-ci.com/OpenDevUFCG/poscomp) [![chat on Discord](https://img.shields.io/discord/558293573494112257.svg?logo=discord)](https://discord.gg/UgR5WrY)
 
 Procurando soluções para as questões de provas da POSCOMP de anos anteriores? Chegou ao lugar certo!
 
