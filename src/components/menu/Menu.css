@@ -1,0 +1,31 @@
+ul, li {
+  list-style-type:none;
+}
+.Menu--container {
+  display: block;
+  width: 100%;
+  height: 50px;
+  text-align: right;
+  background: #000;
+  color: #fff;
+  border-radius: 25px;
+}
+.Menu__option {
+  height: 100%;
+  display: inline-block;
+  padding: 16px;
+  -webkit-transition: ease-in-out .2s;
+	-o-transition: ease-in-out .2s;
+  transition: ease-in-out .2s;
+  border-radius: 30px;
+}
+.Menu__option:hover {
+  color: #000;
+  background: #fff;
+  cursor: pointer;
+}
+.MenuOption {
+  color: inherit;
+  text-decoration: none;
+  text-transform: uppercase;
+}
