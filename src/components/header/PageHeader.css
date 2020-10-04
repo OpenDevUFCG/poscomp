@@ -1,7 +1,13 @@
 .page-header {
+  display: grid;
+  grid-auto-flow: column;
 }
 
-@media (min-width: 801px) {
+.page-header__space {
+  grid-row-gap: 1cm;
+}
+
+@media (min-width: 720px) {
   .header-toggle-button {
     display: none;
   }
