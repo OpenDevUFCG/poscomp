@@ -13,6 +13,6 @@
     },
     "resposta": "E",
     "autor": ["2"],
-    "temas": ["Sistemas operacionais", "Alocação de espaço"],
+    "temas": ["Sistemas operacionais"],
     "justificativa": "A alocação contígua é o método de alocação de espaço em disco que consiste em armazenar os arquivos em blocos sequencialmente dispostos. Com a adição e remoção de arquivos, os segmentos livres vão se fragmentando em pedaços por todo o disco, de modo que a existência de blocos livres não implica na possibilidade de alocar um novo arquivo, pois ele pode ser maior que qualquer um destes blocos. Assim, a primeira afirmação está correta. A definição de alocação indexada apresentada na terceira afirmação é adequada e, portanto, ela também está correta.\nA alocação interligada consiste em manter os arquivos como uma lista encadeada de blocos de disco, de modo que cada bloco deve possuir um ponteiro o bloco seguinte. Apesar de lidar bem com a fragmentação, o acesso a arquivos sempre será sequencial e, dada a necessidade de percorrer os blocos através dos ponteiros, será lento para blocos intermediários. Assim, a segunda afirmação está incorreta, de modo que alternativa E responde corretamente a questão."
 }
